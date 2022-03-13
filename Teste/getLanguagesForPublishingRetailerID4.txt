@@ -1,0 +1,4 @@
+Languages for publishing retailer with id 27
+French 2
+Spanish 3
+English 1

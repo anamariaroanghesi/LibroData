@@ -1,0 +1,4 @@
+Languages for publishing retailer with id 9
+French 2
+Spanish 3
+English 1

@@ -1,0 +1,21 @@
+Common books for publishing retailers with ids 32 9
+<xml>
+	<title>El comandante</title>
+	<subtitle></subtitle>
+	<isbn>9788415812647</isbn>
+	<pageCount>283</pageCount>
+	<keywords>Rosa Cano; El comandante; Guerra civil; España; ebooks; ediciones Carena; aviones; Rusia; Rosa Cano; piloto de caza; Segunda República; cárceles franquistas; pilotos de caza republicanos; asociacion de aviadores republicanos; ADAR</keywords>
+	<languageID>3</languageID>
+	<createdOn>Fri Nov 11 11:45:48 EET 2016<createdOn>
+	<authors>Lola & Woufi <authors>
+</xml>
+<xml>
+	<title>Dictionnaire de la Philosophie antique</title>
+	<subtitle>Les Dictionnaires d'Universalis</subtitle>
+	<isbn>9782341007023</isbn>
+	<pageCount>990</pageCount>
+	<keywords>Dictionnaire de la Philosophie antique; Encyclopaedia Universalis; Les Dictionnaires d'Universalis; ebooks; encyclopédies; dictionnaires; ouvrages de référence; articles; Antiquité; naissance de la philosophie; philosophes; croyances; Aristote; moi; dialectique; scepticisme; stoïcisme; épicurisme; sophisme; Socrate; Sénèque; Platon</keywords>
+	<languageID>2</languageID>
+	<createdOn>Mon Mar 20 11:09:11 EET 2017<createdOn>
+	<authors> Ligaran <authors>
+</xml>

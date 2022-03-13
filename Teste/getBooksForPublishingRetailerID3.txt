@@ -1,0 +1,531 @@
+Books for publishing retailer with id 27
+<xml>
+	<title>Des cheveux en pleine santé</title>
+	<subtitle>25 trucs et astuces de grand-mère</subtitle>
+	<isbn>9782806260239</isbn>
+	<pageCount>32</pageCount>
+	<keywords>trucs et astuces de grand-mère; trucs et astuces; cheveux; cheveux gras; cheveux secs; astuces beauté; Mamie; malins; quotidien sain; bicarbonate de soude; citron; vinaigre; huiles essentielles; recettes naturelles; ingrédients naturels; économiques; beauté; bons plans; secrets grand-mère; conseils pratiques</keywords>
+	<languageID>2</languageID>
+	<createdOn>Fri Nov 11 10:17:38 EET 2016<createdOn>
+	<authors>Encyclopaedia Universalis <authors>
+</xml>
+<xml>
+	<title>Envie de liberté? Organisez-vous !</title>
+	<subtitle>A la rencontre de l'Intelligence Organisationnelle</subtitle>
+	<isbn>9782511013991</isbn>
+	<pageCount>144</pageCount>
+	<keywords>Alex Adam; Aurélien Coussement; Envie de liberté? Organisez-vous !; A la rencontre de l'Intelligence Organisationnelle; EdiPro éditions; ebooks; guides pratiques; gestion de soi; employés; ressources humaines; stress; activités professionnelles; mondes du travail; vies privées; outils; exercices pratiques; conseils; développements personnels; communication</keywords>
+	<languageID>2</languageID>
+	<createdOn>Fri Nov 11 10:27:30 EET 2016<createdOn>
+	<authors>Helen Quinn <authors>
+</xml>
+<xml>
+	<title>Voyage corsaire</title>
+	<subtitle>Récit d'aventures</subtitle>
+	<isbn>9782875860101</isbn>
+	<pageCount>196</pageCount>
+	<keywords>Giuseppe Santoliquido; Voyage corsaire; Ker éditions; ebooks; voyages; corsaires; récits; mises en abyme; Frédéric Verratti; mystères; identités; relations; questionnements; rapports; souvenirs</keywords>
+	<languageID>2</languageID>
+	<createdOn>Fri Nov 11 10:47:36 EET 2016<createdOn>
+	<authors>Jean-Chrétien Favreau <authors>
+</xml>
+<xml>
+	<title>Crónicas quinquis</title>
+	<subtitle>Crónica negra</subtitle>
+	<isbn>9788494124549</isbn>
+	<pageCount>160</pageCount>
+	<keywords>Crónicas quinquis; Javier Valenzuela; Libros del KO ebooks; testigos; testimonios; periodismo; historias españolas; ciencias sociales; drogas; heroína; violencias; bandolerismo; inseguridad social; El País; cárcel de Carabanchel</keywords>
+	<languageID>3</languageID>
+	<createdOn>Fri Nov 11 11:00:32 EET 2016<createdOn>
+	<authors>Matthieu Ruf <authors>
+</xml>
+<xml>
+	<title>Autant en emporte le vent de Margaret Mitchell (Fiche de lecture)</title>
+	<subtitle>Résumé complet et analyse détaillée de l'oeuvre</subtitle>
+	<isbn>9782806279484</isbn>
+	<pageCount>32</pageCount>
+	<keywords>Autant en emporte le vent; Margaret Mitchell; le petit litteraire; lePetitLittéraire.fr; roman; littérature classique; analyse complète de l'oeuvre; résumé détaillé du livre; fiche de lecture; critique littéraire; littérature américaine; outils pédagogiques; parascolaire; analyse du livre; clés de lecture; étude des personnages; guerre de Sécession; Scarlett O'Hara; esclavage; amour</keywords>
+	<languageID>2</languageID>
+	<createdOn>Fri Nov 11 11:02:50 EET 2016<createdOn>
+	<authors>Alan Sheridan <authors>
+</xml>
+<xml>
+	<title>De Paris à Samarkand</title>
+	<subtitle>Le Ferghanah, le Kouldja et la Sibérie occidentale : impressions de voyage d'une Parisienne</subtitle>
+	<isbn>9782335165081</isbn>
+	<pageCount>516</pageCount>
+	<keywords>De Paris à Samarkand; Le Ferghanah, le Kouldja et la Sibérie occidentale : impressions de voyage d'une Parisienne; Marie d' Ujfalvy-Bourdon; Éditions Ligaran; ebooks; domaine public; œuvres classiques; œuvres indisponibles; récits de voyage; expéditions; mutations; découvertes; carnet de bord; aventures; obligations; cultures différentes; adaptations</keywords>
+	<languageID>2</languageID>
+	<createdOn>Fri Nov 11 11:02:52 EET 2016<createdOn>
+	<authors>C. van Straelen <authors>
+</xml>
+<xml>
+	<title>Terroristes. Les 7 piliers de la déraison de Marc Trévidic (Fiche de lecture)</title>
+	<subtitle>Résumé complet et analyse détaillée de l'oeuvre</subtitle>
+	<isbn>9782806278937</isbn>
+	<pageCount>28</pageCount>
+	<keywords>Terroristes; Les 7 piliers de la déraison; Marc Trévidic; le petit litteraire; lePetitLittéraire.fr; essai; témoignages; analyse complète de l’oeuvre; résumé détaillé du livre; fiche de lecture; critique du livre; outils pédagogiques; parascolaire; analyse du livre; clés de lecture; éclairages; littérature française; lutte antiterroriste; djihadisme; radicalisation</keywords>
+	<languageID>2</languageID>
+	<createdOn>Fri Nov 11 11:08:28 EET 2016<createdOn>
+	<authors>Emmanuel de Careil <authors>
+</xml>
+<xml>
+	<title>Disparition Programmée de Roland Smith (Fiche de lecture)</title>
+	<subtitle>Analyse complète de l'oeuvre</subtitle>
+	<isbn>9782511025581</isbn>
+	<pageCount>24</pageCount>
+	<keywords>Fiche de lecture; Disparition Programmée; Roland Smith; ebooks; résumé; analyse détaillée; analyse complète; éducation nationale; collège; lycée; analyse littéraire; théorie littéraire; œuvre classique; roman; auteur classique; référence littéraire; thriller; suspens; familles; amours; amitiés; quêtes; mystères; espionnage</keywords>
+	<languageID>2</languageID>
+	<createdOn>Fri Nov 11 11:38:41 EET 2016<createdOn>
+	<authors>Philippe-Michel Dillies <authors>
+</xml>
+<xml>
+	<title>Lucky the Worm</title>
+	<subtitle>Small Animals Explained to Children</subtitle>
+	<isbn>9782511024553</isbn>
+	<pageCount>20</pageCount>
+	<keywords>Lucky the Worm; Veronica Podesta; Monica Pierazzi Mitri; Small but Useful volume 3; Caramel Editions; ebooks; Small Animals Explained to Children; short stories for children; short stories; book for children; beginning reader; young reader; children; youth; illustrations; illustrated books; illustrated stories; learn how to read; children and animals; habits; accommodations; food; roles; importance; respect of nature</keywords>
+	<languageID>1</languageID>
+	<createdOn>Fri Nov 11 11:57:11 EET 2016<createdOn>
+	<authors>Mel Poetry <authors>
+</xml>
+<xml>
+	<title>L'existentialisme est un humanisme de Jean-Paul Sartre (Analyse approfondie)</title>
+	<subtitle>Approfondissez votre lecture des romans classiques et modernes avec Profil-Litteraire.fr</subtitle>
+	<isbn>9782806268655</isbn>
+	<pageCount>54</pageCount>
+	<keywords>Profil littéraire; L'existentialisme est un humanisme; Sartre; analyses littéraires; fiches de lecture; résumés complets; biographie de Sartre; analyses des thématiques; philosophie; pensée sartrienne; La Nausée; Huis Clos; Les Mouches; philosophie existentialiste; liberté; L’existence précède l’essence; notions philosophiques; choix; humanisme; L'Ecume des jours; engagement</keywords>
+	<languageID>2</languageID>
+	<createdOn>Fri Nov 11 12:07:48 EET 2016<createdOn>
+	<authors>Becca Lohm <authors>
+</xml>
+<xml>
+	<title>Cap sur la gouvernance des PME</title>
+	<subtitle>Guide (Droit belge)</subtitle>
+	<isbn>9782874557828</isbn>
+	<pageCount>136</pageCount>
+	<keywords>Cap sur la gouvernance des PME; Guide; conformité droit belge; Belgique; Sibylle du Bus de Warnaffe; Lutgart Van den Berghe; Belgique; Anthemis éditions ebooks; ouvrages pratiques; guides; législations; petites et moyennes entreprises; entrepreneurs; conseils</keywords>
+	<languageID>2</languageID>
+	<createdOn>Fri Nov 11 12:09:04 EET 2016<createdOn>
+	<authors>Laurence Binon <authors>
+</xml>
+<xml>
+	<title>Je n’ai rien vu venir</title>
+	<subtitle>Roman social</subtitle>
+	<isbn>9782874893582</isbn>
+	<pageCount>128</pageCount>
+	<keywords>Je n’ai rien vu venir; Eva Kavian; weyrich éditions; ebooks; littérature; romans; fictions; drames; critiques sociales; sans-abri; SDF; précarités; pauvretés; quotidiens rues; centres pour réfugiés; marginalisations sociales; dépressions; suicides; solitudes</keywords>
+	<languageID>2</languageID>
+	<createdOn>Fri Nov 11 12:11:44 EET 2016<createdOn>
+	<authors> Ligaran <authors>
+</xml>
+<xml>
+	<title>Discours sur l'influence des grands écrivains</title>
+	<subtitle></subtitle>
+	<isbn>9782335076783</isbn>
+	<pageCount>22</pageCount>
+	<keywords>Sébastien-Roch Nicolas de Chamfort; Discours sur l'influence des grands écrivains; Ligaran éditions; ebooks; essais et ouvrages de références littéraires; littérature française; XVIIIe siècle</keywords>
+	<languageID>2</languageID>
+	<createdOn>Fri Nov 11 12:35:04 EET 2016<createdOn>
+	<authors>Encyclopaedia Universalis <authors>
+</xml>
+<xml>
+	<title>Le Chef d'œuvre invisible et Pour une anthropologie des images d'Hans Belting (Les Fiches de Lecture d'Universalis)</title>
+	<subtitle>Les Fiches de Lecture d'Universalis</subtitle>
+	<isbn>9782341009287</isbn>
+	<pageCount>20</pageCount>
+	<keywords>Le Chef d'œuvre invisible et Pour une anthropologie des images d'Hans Belting (Les Fiches de Lecture d'Universalis); (Les Fiches de Lecture d'Universalis); Encyclopædia Universalis; ebooks; encyclopédie; arts; concours; critiques; analyses; esthéticiens; historiens de l'art; théorie de l'art; théoriciens; biographies; portraits; littérature; explications; réflexions; interprétations; théories littéraires; études de textes; Histoire de l'art; religions; littérature allemande; auteurs allemands; traductions</keywords>
+	<languageID>2</languageID>
+	<createdOn>Fri Nov 11 12:39:15 EET 2016<createdOn>
+	<authors>Encyclopaedia Universalis <authors>
+</xml>
+<xml>
+	<title>Jérusalem café</title>
+	<subtitle>Polar</subtitle>
+	<isbn>9791023401844</isbn>
+	<pageCount>129</pageCount>
+	<keywords>Jérusalem café; Gérard Streiff; Éditions Ska; ebooks; Noire soeur; littérature française; romans noirs; romans historiques; fictions; enquêtes; suspenses; Alsace; strasbourg; anthropologie raciste; crimes contre l'humanité; antisémitisme; nazis; SS</keywords>
+	<languageID>2</languageID>
+	<createdOn>Fri Nov 11 13:21:50 EET 2016<createdOn>
+	<authors> 50Minutos <authors>
+</xml>
+<xml>
+	<title>Navidad</title>
+	<subtitle>Nouvelle noire</subtitle>
+	<isbn>9791023402582</isbn>
+	<pageCount>11</pageCount>
+	<keywords>Navidad; David Coulon; Éditions Ska; ebooks; Noire soeur; littérature française; nouvelles noires; nouvelles érotiques; policiers; fictions; polars; enquêtes; suspenses; assassinats; cannibalisme; téléthon; photographes; myopathies; Père Noël; mystères; désirs; pulsions</keywords>
+	<languageID>2</languageID>
+	<createdOn>Fri Nov 11 13:28:49 EET 2016<createdOn>
+	<authors>Gary Laski <authors>
+</xml>
+<xml>
+	<title>L'Accumulation du capital de Joan Violet Robinson</title>
+	<subtitle>Les Fiches de lecture d'Universalis</subtitle>
+	<isbn>9782341001458</isbn>
+	<pageCount>16</pageCount>
+	<keywords>Joan Violet Robinson; L'Accumulation du capital; encyclopédie universalis; littérature; littéraire classique; contemporaine; guide; auteur; lecture; analyse; critique; fiche; résumés; aide; études; œuvre; scolaires; parascolaires; bac de français; prépa; enseignants; repères</keywords>
+	<languageID>2</languageID>
+	<createdOn>Fri Nov 11 13:33:16 EET 2016<createdOn>
+	<authors>Mélanie Tellier <authors>
+</xml>
+<xml>
+	<title>La Religieuse de Denis Diderot (Fiche de lecture)</title>
+	<subtitle>Résumé complet et analyse détaillée de l'oeuvre</subtitle>
+	<isbn>9782806265500</isbn>
+	<pageCount>24</pageCount>
+	<keywords>LePetitLittéraire.fr; La Religieuse; Diderot;  résumé détaillé du livre; fiche de lecture; profil littéraire; analyse complète de l'oeuvre; critique littéraire; actualité littéraire; grands classiques; outils pédagogiques; parascolaire; enseignement; analyse littéraire; littérature française; lepetitlitteraire.fr; le petit litteraire; analyse du livre; présentation des personnages; roman-mémoires </keywords>
+	<languageID>2</languageID>
+	<createdOn>Fri Nov 11 13:49:21 EET 2016<createdOn>
+	<authors>Christophe Pellegrini <authors>
+</xml>
+<xml>
+	<title>Une ténébreuse affaire d'Honoré de Balzac</title>
+	<subtitle>Les Fiches de lecture d'Universalis</subtitle>
+	<isbn>9782852297098</isbn>
+	<pageCount>16</pageCount>
+	<keywords>Honoré de Balzac; Une ténébreuse affaire; encyclopédie universalis; littérature; littéraire classique; contemporaine; guide; auteur; lecture; analyse; critique; fiche; résumés; aide; études; œuvre; scolaires; parascolaires; bac de français; prépa; enseignants; repères</keywords>
+	<languageID>2</languageID>
+	<createdOn>Fri Nov 11 14:03:16 EET 2016<createdOn>
+	<authors>Gilles Horiac <authors>
+</xml>
+<xml>
+	<title>Paulette</title>
+	<subtitle>Nouvelle noire</subtitle>
+	<isbn>9791023401882</isbn>
+	<pageCount>13</pageCount>
+	<keywords>Paulette; Max Obione; Éditions Ska; ebooks; Noire soeur; littérature française; nouvelles noires; romans noirs; policiers; fictions; polars; enquêtes; suspenses; caries dentaires; avarices; manipulations; baisers; morts; obsessions; passion; poison; argent; pauvreté</keywords>
+	<languageID>2</languageID>
+	<createdOn>Fri Nov 11 14:05:34 EET 2016<createdOn>
+	<authors>Damien Desamory <authors>
+</xml>
+<xml>
+	<title>La bataille de Marathon</title>
+	<subtitle>L'épisode mythique de la fin de la première guerre médique</subtitle>
+	<isbn>9782806254085</isbn>
+	<pageCount>70</pageCount>
+	<keywords>50MINUTES; 490 av. J.-C.; bataille de Marathon; Antiquité; Marathon; 1re guerre médique; première guerre médique; Miltiade le Jeune; Datis le Mède; Darius Ier; Grecs; Perses; Antiquité; mer Égée; expansion; révolte ionienne; Athènes; Euclès; course; hoplites</keywords>
+	<languageID>2</languageID>
+	<createdOn>Fri Nov 11 14:15:57 EET 2016<createdOn>
+	<authors>Bernard Thilie <authors>
+</xml>
+<xml>
+	<title>Autour de la Lune</title>
+	<subtitle></subtitle>
+	<isbn>9782335017113</isbn>
+	<pageCount>236</pageCount>
+	<keywords>Autour de la Lune; Jules Verne; Ligaran; littérature française; XIXe; aventures; science-fiction; roman d'anticipation; Voyages extraordinaires</keywords>
+	<languageID>2</languageID>
+	<createdOn>Fri Nov 11 14:19:43 EET 2016<createdOn>
+	<authors>Abdeslam Badre <authors>
+</xml>
+<xml>
+	<title>The Battle of Marathon</title>
+	<subtitle>The Decisive End to the First Greco-Persian War</subtitle>
+	<isbn>9782806273048</isbn>
+	<pageCount>44</pageCount>
+	<keywords>The Battle of Marathon; 490 B.C.; Persian Empire; Greek; Athens; Greco-Persian Wars; democracy; tyranny; Delian League; Miltiades; Callimachus; Datis the Mede; Artaphernes; Herodotus; The Histories; Ionia; revolt; Aegean Sea; Darius I; isonomy; egalitarian philosophy; 50Minutes;</keywords>
+	<languageID>1</languageID>
+	<createdOn>Fri Nov 11 14:22:06 EET 2016<createdOn>
+	<authors>Dominique Coutant-Defer <authors>
+</xml>
+<xml>
+	<title>Summary: Net Ready</title>
+	<subtitle>Review and Analysis of Hartman and Sifonis' Book</subtitle>
+	<isbn>9782511016206</isbn>
+	<pageCount>15</pageCount>
+	<keywords>Net Ready; Amir Hartman; John Sifonis; Summary & Analysis; Review; Must Read Summaries; entrepreneurship; web economy; internet, technology; digital era; business success; leadership & management; decision making; generating growth; problem solving;</keywords>
+	<languageID>1</languageID>
+	<createdOn>Fri Nov 11 14:22:34 EET 2016<createdOn>
+	<authors>Jean Château <authors>
+</xml>
+<xml>
+	<title>Harcèlement à l'hôpital</title>
+	<subtitle>Un roman percutant</subtitle>
+	<isbn>9782369340249</isbn>
+	<pageCount>210</pageCount>
+	<keywords>Harcèlement à l'hôpital; Marine Mazeley; Éditions Glyphe; ebooks; romans psychologiques; témoignages; récits de vie; hôpitaux; milieu médical; harcèlements sexuels; droit de cuissage; patrons; manipulations; pressions psychologiques; conflits professionnels; agressions sexuelles; luttes; médecins; inégalités hommes-femmes; sexe fort; carrière professionnelles; amours; craintes; doutes; peurs; ambitions; dignité; soutien; Justices; démarches judiciaires; plaintes; littérature générale</keywords>
+	<languageID>2</languageID>
+	<createdOn>Fri Nov 11 14:38:14 EET 2016<createdOn>
+	<authors>Dulce Bermúdez <authors>
+</xml>
+<xml>
+	<title>Summary: Management the Marks & Spencer Way</title>
+	<subtitle>Review and Analysis of Sieff's Book</subtitle>
+	<isbn>9782511017951</isbn>
+	<pageCount>15</pageCount>
+	<keywords>Management The Marks & Spencer Way; Marcus Sieff; Summary & Analysis; Review; Must Read Summaries; personal & professional success; interpersonal relationships; improvement & development; cooperation & collaboration; community projects; management techniques;</keywords>
+	<languageID>1</languageID>
+	<createdOn>Fri Nov 11 14:38:57 EET 2016<createdOn>
+	<authors>BusinessNews Publishing <authors>
+</xml>
+<xml>
+	<title>De la Tyrannie</title>
+	<subtitle></subtitle>
+	<isbn>9782335166996</isbn>
+	<pageCount>155</pageCount>
+	<keywords>De la Tyrannie; Victor Alfieri; éditions Ligaran; ebooks; littérature; domaine public; oeuvres classiques; oeuvres indisponibles; traités; essais; écrits de jeunesse; ouvrages italiens; critiques; ouvrages politiques; Machiavel; révoltes; libertés; indépendances; République; républicains; philosophes; tyrannies; tyrans; Europe; dirigeants; gouvernements</keywords>
+	<languageID>2</languageID>
+	<createdOn>Fri Nov 11 14:42:28 EET 2016<createdOn>
+	<authors>Françoise Chapron <authors>
+</xml>
+<xml>
+	<title>Improve Your Business Through Kaizen</title>
+	<subtitle>Boost your results with continuous improvement</subtitle>
+	<isbn>9782806268440</isbn>
+	<pageCount>64</pageCount>
+	<keywords>Kaizen; lean management; continuous improvement; quality management; quality management; Taiichi Ohno; Toyota Production System; corporate culture; teamwork; 50Minutes; business;</keywords>
+	<languageID>1</languageID>
+	<createdOn>Fri Nov 11 15:02:06 EET 2016<createdOn>
+	<authors>Émile Zola <authors>
+</xml>
+<xml>
+	<title>La mutité des sentiments</title>
+	<subtitle>Nouvelle</subtitle>
+	<isbn>9782359628401</isbn>
+	<pageCount>20</pageCount>
+	<keywords>La mutité des sentiments; Mathieu Becker; Editions Ex Aequo; collection Blanche; ebooks; littérature française; nouvelles; récits courts; sentiments; choix; honnêteté; ultimatums; bêtise; intelligence; silence; émotions</keywords>
+	<languageID>2</languageID>
+	<createdOn>Mon Jan 30 15:01:52 EET 2017<createdOn>
+	<authors>Didier Viricel <authors>
+</xml>
+<xml>
+	<title>Cicéron</title>
+	<subtitle>Les Grands Articles d'Universalis</subtitle>
+	<isbn>9782341006712</isbn>
+	<pageCount>21</pageCount>
+	<keywords>Cicéron; Encyclopaedia Universalis; Les Grands Articles d'Universalis; ebooks; encyclopédies; articles; ouvrages de référence; savoirs; connaissances; notions; idées; philosophes; hommes d'État; éloquence; rhétorique; politique; philosophie; théorie; Antiquité; Histoire</keywords>
+	<languageID>2</languageID>
+	<createdOn>Mon Mar 20 11:09:35 EET 2017<createdOn>
+	<authors>Roger de Beauvoir <authors>
+</xml>
+<xml>
+	<title>Thaïlande</title>
+	<subtitle>Un voyage écolo et éthique</subtitle>
+	<isbn>9782359080438</isbn>
+	<pageCount>160</pageCount>
+	<keywords>Thaïlande; Un voyage écolo et éthique; Guide Tao; Jamila Selmet; Viatao; ebooks; guides de voyages; guides touristiques; tourisme durable; tourisme engagé; écologie; éthique; Asie; conseils; bons plans; voyages; vacances; illustrations; jungle</keywords>
+	<languageID>2</languageID>
+	<createdOn>Fri May 05 16:44:41 EEST 2017<createdOn>
+	<authors>Pascal Depresle <authors>
+</xml>
+<xml>
+	<title>Summary: Dot.Bomb</title>
+	<subtitle>Review and Analysis of Kuo's Book</subtitle>
+	<isbn>9782806239792</isbn>
+	<pageCount>10</pageCount>
+	<keywords>Dot Bomb; Summary & Analysis; Review; J. David Kuo; Value America; company history; business biography & mistakes; online retailing; spectacular company failure; internet mania; new technologies; investing; business model; optimism & wishful thinking; strategic planning; Must Read Summaries;</keywords>
+	<languageID>1</languageID>
+	<createdOn>Fri Nov 11 11:17:13 EET 2016<createdOn>
+	<authors>Tommy Thiange <authors>
+</xml>
+<xml>
+	<title>Le petit Klimt</title>
+	<subtitle>Un livre d'art amusant et ludique pour toute la famille !</subtitle>
+	<isbn>9782875750525</isbn>
+	<pageCount>32</pageCount>
+	<keywords>Catherine de Duve; Le petit Klimt; Un voyage interactif au pays du peintre viennois; Happy museum !; Kate'Art Éditions; ebooks; documentaires pour enfants; 9-12 ans; jeunesse; livres illustrés; illustrations; familles; artistes; peintures; XIXe et XXe siècles; mouvements artistiques; art nouveau; symbolisme; L'Arbre de vie; L'Accomplissement; L'Attente; Le Baiser; Judith; Portrait d'Adèle Bloch-Bauer; Danaë; Vienne</keywords>
+	<languageID>2</languageID>
+	<createdOn>Fri Nov 11 12:45:19 EET 2016<createdOn>
+	<authors>Encyclopaedia Universalis <authors>
+</xml>
+<xml>
+	<title>Amy la fourmi</title>
+	<subtitle>Les petits animaux expliqués aux enfants</subtitle>
+	<isbn>9782511023860</isbn>
+	<pageCount>20</pageCount>
+	<keywords>Amy la fourmi; Veronica Podesta; Éditions Caramel; ebooks; Les petits animaux expliqués aux enfants; Petits mais utiles; littérature jeunesse; histoires jeunesse; jeunes lecteurs; apprendre à lire; petits livres; livres illustrés; illustrations; lectures pour petits; insectes; nature; fourmilières; fourmis; respect</keywords>
+	<languageID>2</languageID>
+	<createdOn>Fri Nov 11 11:07:51 EET 2016<createdOn>
+	<authors>BusinessNews Publishing <authors>
+</xml>
+<xml>
+	<title>Pensées de Blaise Pascal - Fragments 425 et 430 : le divertissement</title>
+	<subtitle>Commentaire de texte</subtitle>
+	<isbn>9782806233172</isbn>
+	<pageCount>10</pageCount>
+	<keywords>Pensées; Pascal; fragments; commentaire littéraire; littérature XVIIe siècle; chef-d'oeuvre de la littérature française; misère de l’homme; connaissance de Dieu; philosophie; grands classiques; outils pédagogiques; parascolaire; critique littéraire; enseignement; fiche de lecture; analyse littéraire; profil d'une oeuvre; lepetitlitteraire.fr; le petit litteraire</keywords>
+	<languageID>2</languageID>
+	<createdOn>Fri Nov 11 11:08:42 EET 2016<createdOn>
+	<authors>Mélanie Mettra <authors>
+</xml>
+<xml>
+	<title>L'expropriation pour cause d'utilité publique</title>
+	<subtitle></subtitle>
+	<isbn>9782802740858</isbn>
+	<pageCount>668</pageCount>
+	<keywords>L'expropriation pour cause d'utilité publique;Droit;Public et administratif;Centre Montesquieu d'études de l'action publique</keywords>
+	<languageID>2</languageID>
+	<createdOn>Fri Nov 11 11:13:47 EET 2016<createdOn>
+	<authors>Gilbert Garibal <authors>
+</xml>
+<xml>
+	<title>2 jours à Londres</title>
+	<subtitle>Des cartes, des bons plans et les itinéraires indispensables</subtitle>
+	<isbn>9782806255440</isbn>
+	<pageCount>30</pageCount>
+	<keywords>Guide de voyage Angleterre; bon plan pour citytrips; séjours Londres; visiter Londres en deux jours; Londres guide; Londres; Londres city trip; week-end Londres; guide Londres; Londres itinéraires; beaux arts Londres; tripostal; grand place Londres; Londres guide complet; Londres visite guidée; guides touristiques; Londres insolite; Londres tourisme; Londres musées; Londres monuments; activités et informations touristiques; carte de ville europe; truc et astuces tourisme</keywords>
+	<languageID>2</languageID>
+	<createdOn>Fri Nov 11 10:46:17 EET 2016<createdOn>
+	<authors>Valérie Valkanap <authors>
+</xml>
+<xml>
+	<title>Drôle de trésor</title>
+	<subtitle>une histoire pour lecteurs débutants (5-8 ans)</subtitle>
+	<isbn>9782874383380</isbn>
+	<pageCount>24</pageCount>
+	<keywords>Eclat de Lire; Drôle de trésor; Geneviève Rousseau; Marie Morey; livre jeunesse; enfant; lecture; apprentissage; débutant; confirmé; lectures pour petits; livres illustrés; apprendre à lire; livres 5 ans; livres 8 ans; histoires enfants</keywords>
+	<languageID>2</languageID>
+	<createdOn>Fri Nov 11 10:32:47 EET 2016<createdOn>
+	<authors>Xavier Deutsch <authors>
+</xml>
+<xml>
+	<title>Le Goût de la cerise d'Abbas Kiarostami</title>
+	<subtitle>Les Fiches Cinéma d'Universalis</subtitle>
+	<isbn>9782341008044</isbn>
+	<pageCount>20</pageCount>
+	<keywords>Le Goût de la cerise d'Abbas Kiarostami; Les Fiches Cinéma d'Universalis; Encyclopaedia Universalis; ebooks; articles; films franco-iraniens; drames; fables; proposition; rencontres; poésie; philosophie; Homayoun Ershadi; palme d'or au Festival de Cannes 1997; acteurs; actrices; cinéastes; réalisateurs; auteurs; metteurs en scène; scénaristes; cinématographie; récompenses</keywords>
+	<languageID>2</languageID>
+	<createdOn>Fri Nov 11 14:42:16 EET 2016<createdOn>
+	<authors> Ligaran <authors>
+</xml>
+<xml>
+	<title>Dire et écrire le droit en français correct</title>
+	<subtitle></subtitle>
+	<isbn>9782802748700</isbn>
+	<pageCount>808</pageCount>
+	<keywords>Droit;Dire et écrire le droit en français correct;Généralités;Paul Martens;Michèle Lenoble-Pinson</keywords>
+	<languageID>2</languageID>
+	<createdOn>Fri Nov 11 13:40:05 EET 2016<createdOn>
+	<authors> Ligaran <authors>
+</xml>
+<xml>
+	<title>Échec à la Reine</title>
+	<subtitle>Une enquête de l'apicultrice</subtitle>
+	<isbn>9782372602679</isbn>
+	<pageCount>384</pageCount>
+	<keywords>Échec à la Reine;Une enquête de l'apicultrice;Tome 1; V. Valeix; Editions du Palémon; romans policiers; thrillers; polars; romans noirs; enquêtes; intrigues; suspense; Audrey Astier;apithérapies;disparitions;apicultures; écologie; bio; sociétés secrètes; ruches; abeilles; sauvegarde des abeilles; miel; gelée royale; Résistance;deuils;Afganistan;patrimoines;campagne;traditions</keywords>
+	<languageID>2</languageID>
+	<createdOn>Thu Apr 13 11:13:01 EEST 2017<createdOn>
+	<authors> Ligaran <authors>
+</xml>
+<xml>
+	<title>Théorie de la classe de loisir de Thorstein Veblen</title>
+	<subtitle>Les Fiches de lecture d'Universalis</subtitle>
+	<isbn>9782341001076</isbn>
+	<pageCount>16</pageCount>
+	<keywords>Thorstein Veblen; Théorie de la classe de loisir; encyclopédie universalis; littérature; littéraire classique; contemporaine; guide; auteur; lecture; analyse; critique; fiche; résumés; aide; études; œuvre; scolaires; parascolaires; bac de français; prépa; enseignants; repères</keywords>
+	<languageID>2</languageID>
+	<createdOn>Fri Nov 11 14:02:22 EET 2016<createdOn>
+	<authors>Encyclopaedia Universalis <authors>
+</xml>
+<xml>
+	<title>Le drame de Waterloo</title>
+	<subtitle>Grande restitution historique, rectifications, justifications, réfutations, souvenirs, éclaircissements, rapprochements, enseignements, faits inédits et jugements nouveaux sur la campagne de 1815</subtitle>
+	<isbn>9782335155600</isbn>
+	<pageCount>487</pageCount>
+	<keywords>Le drame de Waterloo; Grande restitution historique, rectifications, justifications, réfutations, souvenirs, éclaircissements, rapprochements, enseignements, faits inédits et jugements nouveaux sur la campagne de 1815; Zéphyr-Joseph Piérart; Éditions Ligaran; ebooks; littérature classique; domaine public; récits de guerres; la bataille de Waterloo; Napoléon; visions différentes; critiques</keywords>
+	<languageID>2</languageID>
+	<createdOn>Fri Nov 11 14:18:37 EET 2016<createdOn>
+	<authors>Francis Wayens <authors>
+</xml>
+<xml>
+	<title>Fin de partie (Samuel Beckett - mise en scène Alain Françon - 2011)</title>
+	<subtitle>Les Fiches Spectacle d'Universalis</subtitle>
+	<isbn>9782341005036</isbn>
+	<pageCount>25</pageCount>
+	<keywords>Fin de partie (Samuel Beckett - mise en scène Alain Françon - 2011); Les Fiches Spectacle d'Universalis; Encyclopaedia Universalis; ebooks; encyclopédies; ouvrages de référence; articles; fiches; spectacles; théâtre; mises en scène; metteurs en scène; culture; arts du spectacle; théâtre contemporain; théâtre de l'absurde; tirades; tragique; burlesque; mort; obsessions</keywords>
+	<languageID>2</languageID>
+	<createdOn>Tue Dec 06 10:24:50 EET 2016<createdOn>
+	<authors>Patrick Bent <authors>
+</xml>
+<xml>
+	<title>Summary: Six Action Shoes</title>
+	<subtitle>Review and Analysis of de Bono's Book</subtitle>
+	<isbn>9782511018255</isbn>
+	<pageCount>15</pageCount>
+	<keywords>Six Action Shoes; Edward De Bono; Summary & Analysis; Review; Must Read Summaries; strategies; action modes; personal & professional success; decision making & problem solving; creativity; effective management;</keywords>
+	<languageID>1</languageID>
+	<createdOn>Fri Nov 11 14:36:12 EET 2016<createdOn>
+	<authors> Ligaran <authors>
+</xml>
+<xml>
+	<title>Summary: The Case for Big Government</title>
+	<subtitle>Review and Analysis of Jeff Madrick's Book</subtitle>
+	<isbn>9782511001875</isbn>
+	<pageCount>44</pageCount>
+	<keywords>The Case for Big Government; Jeff Madrick; political; summary; economics; economy; GDP; tax revenues; policy reforms; investment; prosperity; small governments; political conservatives; Great Society;</keywords>
+	<languageID>1</languageID>
+	<createdOn>Thu Feb 02 08:52:13 EET 2017<createdOn>
+	<authors> Ligaran <authors>
+</xml>
+<xml>
+	<title>Tout le monde le fait !</title>
+	<subtitle>La fraude fiscale en Belgique</subtitle>
+	<isbn>9782874351679</isbn>
+	<pageCount>220</pageCount>
+	<keywords>Michel Maus; Axel Neefs; Pierre Delroisse; Tout le monde le fait !; La fraude fiscale en Belgique; Editions Corporate Copyright; ebooks; ouvrages de références sur la finance; fiscalité; paradis fiscaux; circuits financiers; impôts; impositions; taxes; taxations; législation; illégalité</keywords>
+	<languageID>2</languageID>
+	<createdOn>Fri Nov 11 12:57:19 EET 2016<createdOn>
+	<authors> Ligaran <authors>
+</xml>
+<xml>
+	<title>L'Alsace française de 1789 à 1870</title>
+	<subtitle></subtitle>
+	<isbn>9782335146059</isbn>
+	<pageCount>137</pageCount>
+	<keywords>L'Alsace française de 1789 à 1870; Georges Weill; Ligaran ebooks; œuvres domaine public; œuvres indisponibles; littérature classique; littérature française; historiographie guerres; histoire politique; histoire militaire; chroniques histoire; révolutions françaises; guerres alsace française; histoire alsace; politiques second empire; période thermidorienne; gouvernements napoléon; histoire république france</keywords>
+	<languageID>2</languageID>
+	<createdOn>Fri Nov 11 13:27:45 EET 2016<createdOn>
+	<authors>Encyclopaedia Universalis <authors>
+</xml>
+<xml>
+	<title>Les Frères de l'Apocalypse</title>
+	<subtitle>Une enquête prenante</subtitle>
+	<isbn>9782359626148</isbn>
+	<pageCount>240</pageCount>
+	<keywords>Les frères de l'Apocalypse; Jacky Minguet; Editions Ex Aequo; collection Rouge; ebooks; thrillers; romans noirs; polars; romans policiers;fictions; apocalypse; prophéties; ésotérisme; Evangiles; Saint Jean; Bible; Vatican; congrégations; secrets; révélations; souterrains; Rome; Marne; Vendée; Histoire; enquêteurs;détectives amateurs</keywords>
+	<languageID>2</languageID>
+	<createdOn>Mon Jan 30 15:01:11 EET 2017<createdOn>
+	<authors>Sophie Wouters <authors>
+</xml>
+<xml>
+	<title>Comédies</title>
+	<subtitle>Le Plaisir de rompre . Le Pain de ménage. Monsieur Vernet</subtitle>
+	<isbn>9782335091687</isbn>
+	<pageCount>195</pageCount>
+	<keywords>Comédies; Le Plaisir de rompre; Le Pain de ménage; Monsieur Vernet; Jules Renard; Ligaran ebooks; œuvres domaine public; œuvres indisponibles; littérature; théâtres; pièces; comédies; couples; difficultés conjugales; ruptures; mariages; familles; tragédies du minuscule</keywords>
+	<languageID>2</languageID>
+	<createdOn>Fri Nov 11 12:57:13 EET 2016<createdOn>
+	<authors> 50MINUTES <authors>
+</xml>
+<xml>
+	<title>Summary: Palestine: Peace Not Apartheid</title>
+	<subtitle>Review and Analysis of Jimmy Carter's Book</subtitle>
+	<isbn>9782511001424</isbn>
+	<pageCount>44</pageCount>
+	<keywords>Palestine: Peace Not Apartheid; Jimmy Carter; political; summary; apartheid; israel; palestine; holy land; terrorism; diplomacy; peace; dignity;</keywords>
+	<languageID>1</languageID>
+	<createdOn>Thu Feb 02 08:52:27 EET 2017<createdOn>
+	<authors>André Boutin <authors>
+</xml>
+<xml>
+	<title>Animal Farm by George Orwell (Book Analysis)</title>
+	<subtitle>Detailed Summary, Analysis and Reading Guide</subtitle>
+	<isbn>9782806294913</isbn>
+	<pageCount>31</pageCount>
+	<keywords>George Orwell; Animal Farm; BrightSummaries.com; summary; book analysis; reading guides; study aids; book notes; allegory; dictatorship; totalitarianism; communism; USSR; revolution; satire; Stalinism; apologue</keywords>
+	<languageID>1</languageID>
+	<createdOn>Fri Apr 28 10:49:18 EEST 2017<createdOn>
+	<authors>Donatien Alphone François de Sade <authors>
+</xml>
+<xml>
+	<title>Mr. Ibrahim and the Flowers of the Koran by Éric-Emmanuel Schmitt (Book Analysis)</title>
+	<subtitle>Detailed Summary, Analysis and Reading Guide</subtitle>
+	<isbn>9782806270191</isbn>
+	<pageCount>24</pageCount>
+	<keywords>Mr. Ibrahim and the Flowers of the Koran; summary & book analysis;  Eric-Emmanuel Schmitt; French literature; jews; muslims; religion; growing up; contemporary; Cycle de l’invisible; reading guide; BrightSummaries.com;</keywords>
+	<languageID>1</languageID>
+	<createdOn>Fri Nov 11 12:54:36 EET 2016<createdOn>
+	<authors>Jasmin Boyce Mbiyo <authors>
+</xml>

@@ -1,0 +1,52 @@
+ROANGHESI ANA MARIA
+
+=================================Definire clase==================================
+-In clasa Book am mai facut o metoda de afisare a informatiilor cartii care
+sa ma ajute si pentru metoda Publish() din EditorialGroup si PublishingRetailer
+
+-In clasa Administration mi am definit si ArrayListurile pe care o sa le folosesc
+initializez informatiile din fiecare fisier
+
+===================================Initializare==================================
+-In main mi-am definit o variabila aux de tip Administration pe care o folosesc
+sa accesez listele definite in Administration
+
+-Pentru a initializa listele citesc linie cu linie din fiecare fisier, separ campurile,
+le parsez la tipul de date de care este nevoie, construiesc obiectul si il adaug la
+lista respectiva
+
+-Pentru a face conexiunea dintre books si authors am se cauta id-ul carti, daca este
+gasit se cauta si autorul, dupa care este adaugat in lista de autori pentru cartea
+cu id-ul dat; la fel si pentru restul fisierelor de genu
+
+=====================================Metode========================================
+-Am folosit LinkedHashSet pentru ca atunci cand adaug in lista nu adauga dubluri
+
+---getBooksForPublishingRetailerID---
+-gasesc publishingRetailer ul cu idul dat
+-verific de ce tip sunt fiecare element IPublishingArtifact
+-daca este de tip Book adaug cartea in lista, iar daca este de tip EditorialGroup sau
+PublishingBrand adaug toate cartile acestora cu addAll
+
+---getLanguagesForPublishingRetailerID---
+-imi fac o lista cu toate cartile publicate de PublishingRetailer cu id-ul dat folosind
+metoda getBooksForPublishingRetailerID
+-caut prin carti si adaug la lista toate limbile cu id ul dat
+
+---getCountriesForBookID---
+-trec prin toti publishingRetailerii si caut in lista lor de carti daca se afla si cartea
+cu id-ul dat;
+-daca se gaseste inseamna ca a fost publicata cartea si in tarile acelui PublishingRetailer
+asa ca le adaugam pe toate la lista de tari
+
+---getCommonBooksForRetailerIDs---
+-am pus in lista toate cartile pentru retailerul cu id-ul 1 dupa care am folosit
+metoda retainAll() care retine toate elementele care se afla si in lista 2
+
+---getAllBooksForRetailerIDs---
+-la fel ca la metoda trecuta doar ca am folosit addAll() care adauga toate elementele
+fara a le dubla
+
+=====================================Teste=====================================
+-Am afisat rezultatele intr-un fisier pentru fiecare test
+-Testele sunt apelate cu id-uri generate random

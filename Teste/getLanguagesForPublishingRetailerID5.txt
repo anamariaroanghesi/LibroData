@@ -1,0 +1,3 @@
+Languages for publishing retailer with id 20
+French 2
+English 1

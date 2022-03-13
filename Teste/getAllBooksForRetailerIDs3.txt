@@ -1,0 +1,951 @@
+All books for publishing retailers with ids 2 22
+<xml>
+	<title>Histoires extraordinaires</title>
+	<subtitle></subtitle>
+	<isbn>9782806240200</isbn>
+	<pageCount>285</pageCount>
+	<keywords>littérature; classiques littéraires; grands classiques; littérature anglaise; fantastique; roman noir; edgar allan poe; histoires extraordinaires</keywords>
+	<languageID>2</languageID>
+	<createdOn>Fri Nov 11 10:05:53 EET 2016<createdOn>
+	<authors>Chrystel Besse <authors>
+</xml>
+<xml>
+	<title>Jack : moeurs contemporaines</title>
+	<subtitle>Tome II</subtitle>
+	<isbn>9782335076417</isbn>
+	<pageCount>376</pageCount>
+	<keywords>Alphonse Daudet; Jack : moeurs contemporaines; Tome II; Ligaran éditions; ebooks; romans psychologiques et sociaux; littérature française; classiques; XIXe siècle; familles; relations familiales; romances; histoires d'amour; jalousie; études des sociétés; mouvements littéraires; réalisme; fictions</keywords>
+	<languageID>2</languageID>
+	<createdOn>Fri Nov 11 10:12:35 EET 2016<createdOn>
+	<authors> 50MINUTES <authors>
+</xml>
+<xml>
+	<title>Le Pauvre petit causeur</title>
+	<subtitle>Revue satirique de moeurs</subtitle>
+	<isbn>9782335040296</isbn>
+	<pageCount>195</pageCount>
+	<keywords>Le Pauvre petit causeur; Revue satirique de mœurs; Figaro; Ligaran; littérature française; journaux français; critiques de la société; politique</keywords>
+	<languageID>2</languageID>
+	<createdOn>Fri Nov 11 10:26:26 EET 2016<createdOn>
+	<authors>Dominique Coutant-Defer <authors>
+</xml>
+<xml>
+	<title>Shirley</title>
+	<subtitle></subtitle>
+	<isbn>9782335012538</isbn>
+	<pageCount>155</pageCount>
+	<keywords>Shirley; Anne Brontë; Brontë; littérature anglaise; romans anglais; XIXe; Moore; Caroline Helstone; Shirley Keeldar; Ligaran</keywords>
+	<languageID>2</languageID>
+	<createdOn>Fri Nov 11 10:28:02 EET 2016<createdOn>
+	<authors>Jérôme Ravat <authors>
+</xml>
+<xml>
+	<title>Les Caprices de Marianne d'Alfred de Musset (Analyse de l'oeuvre)</title>
+	<subtitle>Comprendre la littérature avec lePetitLittéraire.fr</subtitle>
+	<isbn>9782806218452</isbn>
+	<pageCount>37</pageCount>
+	<keywords>Les Caprices de Marianne; Alfred de Musset; Littérature; théâtre; tragi-comédie; 19e siècle; amour; destin tragique; trahison; libertinage; amitié; grands classiques; outils pédagogiques; parascolaire; critiques littéraires; enseignement; analyses littéraires; profil d'une oeuvre; lepetitlitteraire.fr; le petit litteraire; analyse du livre</keywords>
+	<languageID>2</languageID>
+	<createdOn>Fri Nov 11 10:40:31 EET 2016<createdOn>
+	<authors>Marie-Hélène Maudoux <authors>
+</xml>
+<xml>
+	<title>Le Cid - Acte I, scène 7 - Pierre Corneille (Commentaire de texte)</title>
+	<subtitle>Document rédigé par Claire Cornillon</subtitle>
+	<isbn>9782806233318</isbn>
+	<pageCount>24</pageCount>
+	<keywords>Cid; Corneille;pièces de théâtre;commentaires littéraires; littérature XVIIe siècle;littératures françaises; Chimène;analyses Corneille; grands classiques; outils pédagogiques;parascolaires;critiques littéraires;enseignements;fiches de lectures;analyses littéraires;profils d'une oeuvre; lepetitlitteraire.fr; le petit litteraire</keywords>
+	<languageID>2</languageID>
+	<createdOn>Fri Nov 11 10:44:32 EET 2016<createdOn>
+	<authors>Noir de suiTe <authors>
+</xml>
+<xml>
+	<title>Oufti et le roi Houtsiplou</title>
+	<subtitle>Un conte pour enfants éclairant</subtitle>
+	<isbn>9782511014806</isbn>
+	<pageCount>71</pageCount>
+	<keywords>Oufti et le roi Houtsiplou; Vinciane Born; Alice Éditions; ebooks; contes; livre pour enfant; livre jeunesse; histoire pour enfant; aventure; roi; monde magique; monde parallèle; magiciens; quêtes; missions; fables; écologie; pollution; sécheresse; jeux de mots; découvertes; réchauffement climatique; pauvreté; guerres; industrialisation</keywords>
+	<languageID>2</languageID>
+	<createdOn>Fri Nov 11 10:47:18 EET 2016<createdOn>
+	<authors>Jean-Paul Broonen <authors>
+</xml>
+<xml>
+	<title>Les Pélerinages de Paris</title>
+	<subtitle></subtitle>
+	<isbn>9782335165470</isbn>
+	<pageCount>356</pageCount>
+	<keywords>Les Pélerinages de Paris;  M. l'abbé F.-R. Salmon; Éditions Ligaran; ebooks; domaine public; œuvres classiques; œuvres indisponibles; récits de voyages; voyages religieux; tour du monde; abbés; religieux; croyances; foi; pèlerinage parisien; devoir de mémoire; histoires consignées; écrits religieux</keywords>
+	<languageID>2</languageID>
+	<createdOn>Fri Nov 11 10:58:41 EET 2016<createdOn>
+	<authors>Maïlys Charlier <authors>
+</xml>
+<xml>
+	<title>Sois belle et nettoie !</title>
+	<subtitle>Quand la publicité nous prend pour des connes</subtitle>
+	<isbn>9782390090489</isbn>
+	<pageCount>132</pageCount>
+	<keywords>Sois belle et nettoie !; Ouri Wesoly; La Boîte à Pandore; ebooks; publicités; société de consommation; guides; humour; manipulations; économies; nettoyage; peau; déodorants; alimentation, hygiène; santé; féminisme</keywords>
+	<languageID>2</languageID>
+	<createdOn>Fri Nov 11 11:04:24 EET 2016<createdOn>
+	<authors>Encyclopaedia Universalis <authors>
+</xml>
+<xml>
+	<title>Trois contes - Gustave Flaubert (Fiche de lecture)</title>
+	<subtitle>Analyse complète de l'oeuvre</subtitle>
+	<isbn>9782511025383</isbn>
+	<pageCount>24</pageCount>
+	<keywords>Fiche de lecture; Trois contes; éducation nationale; collège; lycée; analyse littéraire; théorie littéraire; œuvre classique; roman; pièce de théâtre; auteur classique; référence littéraire</keywords>
+	<languageID>2</languageID>
+	<createdOn>Fri Nov 11 11:07:31 EET 2016<createdOn>
+	<authors> Ligaran <authors>
+</xml>
+<xml>
+	<title>María Antonieta </title>
+	<subtitle>Una reina con un trágico destino</subtitle>
+	<isbn>9782806278630</isbn>
+	<pageCount>43</pageCount>
+	<keywords>María Antonieta; en50Minutos.es; en 50 minutos; 1755; 1789; historia; siglo XVIII; monarquías europeas; Austria; Francia; Revolución Francesa; guillotina; alianzas diplomáticas europeas; Luis XVI; Versalles; corte; conspiraciones; familia real; impopularidad; ejecución; Temple; reina de Francia; Habsburgo; Borbones; </keywords>
+	<languageID>3</languageID>
+	<createdOn>Fri Nov 11 11:22:35 EET 2016<createdOn>
+	<authors>Xavier Deutsch <authors>
+</xml>
+<xml>
+	<title>Un si beau printemps</title>
+	<subtitle>Réflexion sur l'importance de la révolution</subtitle>
+	<isbn>9782882413536</isbn>
+	<pageCount>224</pageCount>
+	<keywords>Un si beau printemps; Michel Bühler; Bernard Campiche Éditeur; ebooks; biographies; mémoires; correspondances; neveux; études de la société; théories; témoignages; comparaisons; jeunes; attitudes; pauvreté;  économie; cruauté du monde; réactivité; indifférence; évolutions; culture; années 70; injustices; société actuelle; révoltes; esprit révolutionnaire; combats; amitiés; communisme; utopies; passé; souvenirs; explications; réflexion; littérature générale; littérature francophone</keywords>
+	<languageID>2</languageID>
+	<createdOn>Fri Nov 11 11:35:42 EET 2016<createdOn>
+	<authors>Louis Moland <authors>
+</xml>
+<xml>
+	<title>Malebranche (Fiche philosophe) </title>
+	<subtitle>Comprendre la philosophie avec lePetitPhilosophe.fr</subtitle>
+	<isbn>9782806249548</isbn>
+	<pageCount>32</pageCount>
+	<keywords>Nicolas Malebranche; philosophes français; philosophie; philosophes célèbres; grands philosophes; bac de philo; révisions; vision en Dieu; occasionalisme</keywords>
+	<languageID>2</languageID>
+	<createdOn>Fri Nov 11 11:43:55 EET 2016<createdOn>
+	<authors> lePetitLittéraire <authors>
+</xml>
+<xml>
+	<title>La vie devant eux</title>
+	<subtitle>Roman pour ados</subtitle>
+	<isbn>9782511031155</isbn>
+	<pageCount>224</pageCount>
+	<keywords>La vie devant eux; Blandine Gérard; Alice Éditions; ebooks; romans jeunesse; lectures pour ados; roman adolescents; adolescents en difficulté; policiers; peurs; frissons; décrochage scolaire; accidents de voiture; décès; enquêtes policières; recherche de coupables</keywords>
+	<languageID>2</languageID>
+	<createdOn>Fri Nov 11 12:02:06 EET 2016<createdOn>
+	<authors> Ligaran <authors>
+</xml>
+<xml>
+	<title>The Little Van Gogh</title>
+	<subtitle>A Fun and Cultural Moment for the Whole Family!</subtitle>
+	<isbn>9782875750631</isbn>
+	<pageCount>32</pageCount>
+	<keywords>The Little Van Gogh; Collection Happy Museum; Kate'Art éditions; ebooks; non-fiction books for children; 9-12 years old; young audience; illustrated books; illustrations; families; family activities; art guides; paintings; famous paintors; general culture; history of art; artistic drawings</keywords>
+	<languageID>1</languageID>
+	<createdOn>Fri Nov 11 12:03:41 EET 2016<createdOn>
+	<authors>BusinessNews Publishing <authors>
+</xml>
+<xml>
+	<title>Une demande en mariage et autres pièces en un acte de Anton Tchekhov (Fiche de lecture)</title>
+	<subtitle>Résumé complet et analyse détaillée de l'oeuvre</subtitle>
+	<isbn>9782806237248</isbn>
+	<pageCount>10</pageCount>
+	<keywords>Une demande en mariage et autres pièces en un acte ;Anton Tchekhov ;analyse complète de l'oeuvre ;résumé détaillé du livre ;fiche de lecture ;profil littéraire ;critique ;Littérature ;grands classiques ;outils pédagogiques ;parascolaire ;critique littéraire ;enseignement ;lepetitlitteraire.fr ;le petit litteraire</keywords>
+	<languageID>2</languageID>
+	<createdOn>Fri Nov 11 12:11:12 EET 2016<createdOn>
+	<authors> Ligaran <authors>
+</xml>
+<xml>
+	<title>La Vénus d'Ille de Prosper Mérimée (Analyse de l'oeuvre)</title>
+	<subtitle>Comprendre la littérature avec lePetitLittéraire.fr</subtitle>
+	<isbn>9782806219770</isbn>
+	<pageCount>29</pageCount>
+	<keywords>La Vénus d'Ille ; Prosper Mérimée ;Littérature; grands classiques; outils pédagogiques; parascolaire; critique littéraire; enseignement; fiche de lecture; analyse littéraire; profil d'une oeuvre; lepetitlitteraire.fr; le petit litteraire; analyse du livre</keywords>
+	<languageID>2</languageID>
+	<createdOn>Fri Nov 11 12:13:04 EET 2016<createdOn>
+	<authors>Bright Summaries <authors>
+</xml>
+<xml>
+	<title>Summary: Meatball Sundae</title>
+	<subtitle>Review and Analysis of Godin's Book</subtitle>
+	<isbn>9782511019610</isbn>
+	<pageCount>15</pageCount>
+	<keywords>Meatball Sundae; Seth Godin; Summary & Analysis; Review; Must Read Summaries; internet marketing strategies; tradition & innovation; business success; sales & selling; organizational adaptation & evolution; organisational adaptation & evolution; transformations & changes; structural adjustments; strategic management;</keywords>
+	<languageID>1</languageID>
+	<createdOn>Fri Nov 11 12:49:09 EET 2016<createdOn>
+	<authors>Simone Ansquer <authors>
+</xml>
+<xml>
+	<title>Le tombeau de Joshué</title>
+	<subtitle>Un roman d’aventures extraordinaire !</subtitle>
+	<isbn>9782875861276</isbn>
+	<pageCount>232</pageCount>
+	<keywords>Le tombeau de Joshué; Les aventures de Parsifal Crusader; tome 2; Michel Honaker;  Ker éditions; Double Jeu; ebooks; romans jeunesses; romans d'aventures; mystères; aventuriers; enquêtes; recherches; explorateurs; amitié; complicité; fantastique; magie; voyages; Syrie; prophètes; prophéties; étranges pouvoirs; déserts; oasis</keywords>
+	<languageID>2</languageID>
+	<createdOn>Fri Nov 11 13:34:49 EET 2016<createdOn>
+	<authors>Zine El Abidine Hamda Cherif <authors>
+</xml>
+<xml>
+	<title>La Cantatrice chauve d'Eugène Ionesco</title>
+	<subtitle>Les Fiches de lecture d'Universalis</subtitle>
+	<isbn>9782852293021</isbn>
+	<pageCount>16</pageCount>
+	<keywords>Eugène Ionesco; La Cantatrice chauve; encyclopédie universalis; littérature; littéraire classique; contemporaine; guide; auteur; lecture; analyse; critique; fiche; résumés; aide; études; œuvre; scolaires; parascolaires; bac de français; prépa; enseignants; repères</keywords>
+	<languageID>2</languageID>
+	<createdOn>Fri Nov 11 13:34:57 EET 2016<createdOn>
+	<authors>Emile Condroyer <authors>
+</xml>
+<xml>
+	<title>Drogue</title>
+	<subtitle>Les Grands Articles d'Universalis</subtitle>
+	<isbn>9782341003308</isbn>
+	<pageCount>60</pageCount>
+	<keywords>Drogue; Les Grands Articles d'Universalis; Encyclopaedia Universalis; ebooks; articles; encyclopédies; livres illustrés; santé; psychologie; sociologie; addictions; dépendances; drogues; toxicomanie; dopage; substances psychoactives; classifications; distinctions; drogues dures; drogues douces; marché de la drogue; dealers; blanchiment; dépénalisation; légalisation; désintoxication</keywords>
+	<languageID>2</languageID>
+	<createdOn>Fri Nov 11 13:41:53 EET 2016<createdOn>
+	<authors>Encyclopaedia Universalis <authors>
+</xml>
+<xml>
+	<title>L'indemnisation des victimes d'accidents de la circulation en Europe</title>
+	<subtitle>Recueil des travaux du Groupe de Recherche Européen sur la Responsabilité civile et l’Assurance (GRERCA)</subtitle>
+	<isbn>9782802750475</isbn>
+	<pageCount>282</pageCount>
+	<keywords>Droit;L'indemnisation des victimes d'accidents de la circulation en Europe;Responsabilité civile et assurances;Groupe de recherche européen sur la responsabilité civil et l’assurance (GRERCA);Les régimes d’indemnisation</keywords>
+	<languageID>2</languageID>
+	<createdOn>Fri Nov 11 13:44:58 EET 2016<createdOn>
+	<authors>der Querleser <authors>
+</xml>
+<xml>
+	<title>Méditations cartésiennes d'Edmund Husserl</title>
+	<subtitle>Les Fiches de lecture d'Universalis</subtitle>
+	<isbn>9782852295254</isbn>
+	<pageCount>16</pageCount>
+	<keywords>Edmund Husserl; Méditations cartésiennes; encyclopédie universalis; littérature; littéraire classique; contemporaine; guide; auteur; lecture; analyse; critique; fiche; résumés; aide; études; œuvre; scolaires; parascolaires; bac de français; prépa; enseignants; repères</keywords>
+	<languageID>2</languageID>
+	<createdOn>Fri Nov 11 13:52:34 EET 2016<createdOn>
+	<authors> 50Minutes <authors>
+</xml>
+<xml>
+	<title>Le Marquis de Sade et son oeuvre</title>
+	<subtitle>Devant la science médicale et la littérature moderne</subtitle>
+	<isbn>9782335168662</isbn>
+	<pageCount>484</pageCount>
+	<keywords>Le Marquis de Sade et son oeuvre; Devant la science médicale et la littérature moderne; Jacobus X; éditions Ligaran; ebooks; littérature; domaine public; oeuvres classiques; oeuvres indisponibles; livres illustrés; biographies; récits de vie; portraits; écrivains; auteurs; carrières; polémique; littérature libertine; libertinage; scandales; prison; censure; pièces de théâtre; lettres; romans; philosophie</keywords>
+	<languageID>2</languageID>
+	<createdOn>Fri Nov 11 14:33:10 EET 2016<createdOn>
+	<authors>Éléonore Quinaux <authors>
+</xml>
+<xml>
+	<title>Summary: Understanding Financial Statements</title>
+	<subtitle>Review and Analysis of Straub's Book</subtitle>
+	<isbn>9782511018668</isbn>
+	<pageCount>15</pageCount>
+	<keywords>Understanding Financial Statements; Joseph T. Straub; Summary & Analysis; Review; Must Read Summaries; business skill; career success; corporate finance; evaluating competence & results; accounting; management & strategy; income statement; balance sheet; statement of cash flows; </keywords>
+	<languageID>1</languageID>
+	<createdOn>Fri Nov 11 14:38:15 EET 2016<createdOn>
+	<authors>Noir de suiTe <authors>
+</xml>
+<xml>
+	<title>Fahrenheit 451 by Ray Bradbury (Book Analysis) </title>
+	<subtitle>Detailed Summary, Analysis and Reading Guide</subtitle>
+	<isbn>9782806270467</isbn>
+	<pageCount>24</pageCount>
+	<keywords>fahrenheit 451 by ray bradbury (book analysis); BrightSummaries.com;summary;analysis; reading guide;Fahrenheit 451; Ray Bradbury; dystopia; science fiction; society; technology; censorship; oppression; revolt; brainwashing; freedom of expression; book burning</keywords>
+	<languageID>1</languageID>
+	<createdOn>Fri Nov 11 14:59:57 EET 2016<createdOn>
+	<authors>Jean-Benoît Hubin <authors>
+</xml>
+<xml>
+	<title>Siberia</title>
+	<subtitle>Un thriller glaçant</subtitle>
+	<isbn>9782359628067</isbn>
+	<pageCount>156</pageCount>
+	<keywords>Siberia; Christine Thépot-Gayon; Editions Ex Aequo; collection Rouge; ebooks; thrillers; romans policiers;polars historiques; disparitions; enquêtes; Sibérie; suspense; mystères; rivalités;histoires vraies;faits réels;Russie;anciens goulags;Deuxième guerre mondiale</keywords>
+	<languageID>2</languageID>
+	<createdOn>Mon Jan 30 15:01:41 EET 2017<createdOn>
+	<authors>Théophile Dessenbe <authors>
+</xml>
+<xml>
+	<title>Aprende a invertir, con poco o sin ningún dinero</title>
+	<subtitle>Genera miles de dólares con bienes raíces</subtitle>
+	<isbn>9788416669974</isbn>
+	<pageCount>128</pageCount>
+	<keywords>Juan Carlos Zamora Soriano; Aprende a invertir, con poco o sin ningún dinero; Mestas ediciones ebook;economías;riquezas; inversión;aprendizajes;capitales intelectuales;modelos de negocios; generación de fortuna; invertir sin capital;fórmulas de éxitos; ganancias;cambios radicales;enriquecimientos;emprendimientos; coaching;estrategias para el éxito; triunfar; convertirse en millonario;instrucciones;capitales financieros</keywords>
+	<languageID>3</languageID>
+	<createdOn>Tue Mar 14 12:09:48 EET 2017<createdOn>
+	<authors>Encyclopaedia Universalis <authors>
+</xml>
+<xml>
+	<title>Fanny V.</title>
+	<subtitle>Roman</subtitle>
+	<isbn>9782357150683</isbn>
+	<pageCount>360</pageCount>
+	<keywords>Fanny V.; Christelle Ravey; Les Editions de la Boucle; ebooks; littérature française; romans psychologiques; romans historiques; exils; fuites; Constantinople; France; rêves; espoirs; liberté; tolérance; obstacles; forces; renoncements; condition des femmes; traditions; émancipation; bouleversements; familles; Juifs</keywords>
+	<languageID>2</languageID>
+	<createdOn>Tue Apr 11 16:54:40 EEST 2017<createdOn>
+	<authors>Maria Golubeva <authors>
+</xml>
+<xml>
+	<title>Psychopathia sexualis de Richard von Krafft-Ebing</title>
+	<subtitle>Les Fiches de Lecture d'Universalis</subtitle>
+	<isbn>9782341011266</isbn>
+	<pageCount>18</pageCount>
+	<keywords>Psychopathia sexualis de Richard von Krafft-Ebing; (Les Fiches de Lecture d'Universalis); Encyclopædia Universalis; Encyclopédie Universalis; ebooks; Littérature; littéraire; sciences humaines; essais littéraires; travaux; auteurs; psychiatre allemand; biographies; portraits; carrières; lectures; analyses; critiques; sociologie; anthropologie; incidences médico-légales; pathologies sexuelles; perversions; théories; catalogues; classifications; maladies mentales; expériences; descriptions</keywords>
+	<languageID>2</languageID>
+	<createdOn>Fri Nov 11 11:28:35 EET 2016<createdOn>
+	<authors>Natacha Cerf <authors>
+</xml>
+<xml>
+	<title>Je prends soin de moi</title>
+	<subtitle>Avec des histoires, des exercices et des jeux, accompagné d'un adulte bienveillant</subtitle>
+	<isbn>9782390030119</isbn>
+	<pageCount>96</pageCount>
+	<keywords>Je prends soin de moi; Avec des histoires, des exercices et des jeux, accompagné d’un adulte bienveillant; Josette Carpentier; Éditions Image Publique; ebooks; livres jeunesse; livres pratiques; guides; histoires; exercices; bien-être; réflexions; dessins; écriture créative; relaxation; PNL; prise de conscience; questionnements; exemples; aventures; situations de la vie quotidienne; explications aux enfants; exercices adaptés à l'âge; thèmes; psychologie de l'enfant; aide aux parents</keywords>
+	<languageID>2</languageID>
+	<createdOn>Fri Nov 11 12:17:37 EET 2016<createdOn>
+	<authors>Firmin Le Bourhis <authors>
+</xml>
+<xml>
+	<title>Des cheveux en pleine santé</title>
+	<subtitle>25 trucs et astuces de grand-mère</subtitle>
+	<isbn>9782806260239</isbn>
+	<pageCount>32</pageCount>
+	<keywords>trucs et astuces de grand-mère; trucs et astuces; cheveux; cheveux gras; cheveux secs; astuces beauté; Mamie; malins; quotidien sain; bicarbonate de soude; citron; vinaigre; huiles essentielles; recettes naturelles; ingrédients naturels; économiques; beauté; bons plans; secrets grand-mère; conseils pratiques</keywords>
+	<languageID>2</languageID>
+	<createdOn>Fri Nov 11 10:17:38 EET 2016<createdOn>
+	<authors>Encyclopaedia Universalis <authors>
+</xml>
+<xml>
+	<title>Typologie poétique des médecins spécialistes</title>
+	<subtitle>Essai</subtitle>
+	<isbn>9782806630285</isbn>
+	<pageCount>163</pageCount>
+	<keywords>Robert Askenasi; typologie poétique des médecins spécialistes; EME éditions ebooks; médecine ; humour ; poésie; science typologique; poètes; portraits</keywords>
+	<languageID>2</languageID>
+	<createdOn>Fri Nov 11 12:11:41 EET 2016<createdOn>
+	<authors> lePetitLittéraire <authors>
+</xml>
+<xml>
+	<title>Poésies de Stéphane Mallarmé</title>
+	<subtitle>Les Fiches de lecture d'Universalis</subtitle>
+	<isbn>9782852291898</isbn>
+	<pageCount>16</pageCount>
+	<keywords>Stéphane Mallarmé; Poésies; encyclopédie universalis; littérature; littéraire classique; contemporaine; guide; auteur; lecture; analyse; critique; fiche; résumés; aide; études; œuvre; scolaires; parascolaires; bac de français; prépa; enseignants; repères</keywords>
+	<languageID>2</languageID>
+	<createdOn>Fri Nov 11 10:11:08 EET 2016<createdOn>
+	<authors>Charles Richet <authors>
+</xml>
+<xml>
+	<title>Charlie</title>
+	<subtitle>Une belle histoire d'amitié</subtitle>
+	<isbn>9791090685413</isbn>
+	<pageCount>67</pageCount>
+	<keywords>Charlie; François David; Éditions Le Muscadier; ebooks; collection Place du marché; récits; romans pour adolescents; littérature jeunesse; littérature engagée; tolérance; sans-abris; alcoolisme; amitié; complicité; assistante sociale; aumône; baptême; clochard; collège; conseil de discipline; église; émotions; exclusion; faire la manche; fierté; honte; messe; monde de la rue; parents; poésie; rue; sans domicile fixe; trottoir; vélo; violence</keywords>
+	<languageID>2</languageID>
+	<createdOn>Fri Nov 11 12:19:10 EET 2016<createdOn>
+	<authors>Laurence Hesse <authors>
+</xml>
+<xml>
+	<title>Boundaries of European Private International Law</title>
+	<subtitle> Les frontières du droit international privé européen / Las fronteras del derecho internacional privado europeo</subtitle>
+	<isbn>9782802751649</isbn>
+	<pageCount>720</pageCount>
+	<keywords>Droit;Boundaries of European Private International Law;International;International privé;frontières;Boundaries</keywords>
+	<languageID>1</languageID>
+	<createdOn>Fri Nov 11 12:04:00 EET 2016<createdOn>
+	<authors>Licora L. <authors>
+</xml>
+<xml>
+	<title>Les Voyages de Gulliver</title>
+	<subtitle></subtitle>
+	<isbn>9782335008586</isbn>
+	<pageCount>278</pageCount>
+	<keywords>Les Voyages de Gulliver; Jonathan Swift; Ligaran; littérature anglaise; roman satirique; Lilliput; Lilliputiens;</keywords>
+	<languageID>2</languageID>
+	<createdOn>Fri Nov 11 10:41:11 EET 2016<createdOn>
+	<authors>Jean Swaffran <authors>
+</xml>
+<xml>
+	<title>L'expropriation pour cause d'utilité publique</title>
+	<subtitle></subtitle>
+	<isbn>9782802740858</isbn>
+	<pageCount>668</pageCount>
+	<keywords>L'expropriation pour cause d'utilité publique;Droit;Public et administratif;Centre Montesquieu d'études de l'action publique</keywords>
+	<languageID>2</languageID>
+	<createdOn>Fri Nov 11 11:13:47 EET 2016<createdOn>
+	<authors>Gilbert Garibal <authors>
+</xml>
+<xml>
+	<title>Histoire de la commune de 1871</title>
+	<subtitle>Nouvelle édition précédée d'une notice sur Lissagaray par Amédée Dunois</subtitle>
+	<isbn>9782335075885</isbn>
+	<pageCount>634</pageCount>
+	<keywords>Prosper-Olivier Lissagaray; Histoire de la commune de 1871; Nouvelle édition précédée d'une notice sur Lissagaray par Amédée Dunois; Ligaran éditions; ebooks; essais et ouvrages de références historiques; France; Paris; XIXe siècle; coalitions, complots et conspirations politiques; Garde nationale; Prusse; soulèvements; révoltes; rebellions; monarchies</keywords>
+	<languageID>2</languageID>
+	<createdOn>Fri Nov 11 10:22:21 EET 2016<createdOn>
+	<authors>Kees Van Houten <authors>
+</xml>
+<xml>
+	<title>Napoléon en campagne</title>
+	<subtitle></subtitle>
+	<isbn>9782335016673</isbn>
+	<pageCount>231</pageCount>
+	<keywords>Napoléon en campagne; Jean-Baptiste Vachée; littérature française; XXe; Empire français; Histoire; Waterloo; biographie; Ligaran</keywords>
+	<languageID>2</languageID>
+	<createdOn>Fri Nov 11 10:52:18 EET 2016<createdOn>
+	<authors>Mathieu Couplet <authors>
+</xml>
+<xml>
+	<title>Summary: Indivisible</title>
+	<subtitle>Review and Analysis of Martha Zoller's Book</subtitle>
+	<isbn>9782511001004</isbn>
+	<pageCount>44</pageCount>
+	<keywords>Indivisible; Martha Zoller; political; summary; uniting values; conservative; opinion; party politics; media; ideology;</keywords>
+	<languageID>1</languageID>
+	<createdOn>Thu Feb 02 08:54:14 EET 2017<createdOn>
+	<authors> lePetitLitteraire <authors>
+</xml>
+<xml>
+	<title>Le café Procope</title>
+	<subtitle></subtitle>
+	<isbn>9782335121933</isbn>
+	<pageCount>155</pageCount>
+	<keywords>Le café Procope; Roger de Beauvoir; Ligaran ebooks; œuvres domaine public; œuvres indisponibles; littérature classique; littérature française 19e siècle; romans d'aventures; romans historiques; chroniques; histoire de France; paris; conspirations; meurtres; marat; abbaye de saint-germain-des-prés; marquise de flory; cagliostro</keywords>
+	<languageID>2</languageID>
+	<createdOn>Fri Nov 11 13:36:42 EET 2016<createdOn>
+	<authors>der Querleser <authors>
+</xml>
+<xml>
+	<title>Les maladies infantiles</title>
+	<subtitle>Découvrez les pathologies les plus communes chez l'enfant</subtitle>
+	<isbn>9782842598389</isbn>
+	<pageCount>8</pageCount>
+	<keywords>Petit Guide; Les maladies infantiles; Aedis éditions; ebooks; guides pratiques; ouvrages de référence; santé; bien-être; médecines; pédiatrie; pathologies; vaccins; bébés; nourrissons; enfants; rougeole; rubéole; oreillons; roséole; scarlatine; varicelle; otite; rhino-pharyngite; laryngite; angine; grippe; asthme; bronchite; coqueluche; eczéma; poux; constipations; diarrhée</keywords>
+	<languageID>2</languageID>
+	<createdOn>Fri Nov 11 13:44:12 EET 2016<createdOn>
+	<authors>Marinus Kasbergen <authors>
+</xml>
+<xml>
+	<title>Ma vie, votre œuvre</title>
+	<subtitle>Un roman actuel</subtitle>
+	<isbn>9782919742752</isbn>
+	<pageCount>80</pageCount>
+	<keywords>Ma vie, votre oeuvre;Alain Kauffmann;Éditions des Tourments;ebooks;romans contemporains;Internet;dérives;génération connectée;Web;codes actuels;décryptages;internautes;voyeurisme;choix;romans psychologiques;jeunes gens;adolescents;mondes virtuels;décisions;le net;toile;victimes;Facebook;réseaux sociaux;maladies;euthanasie</keywords>
+	<languageID>2</languageID>
+	<createdOn>Thu Feb 23 09:57:32 EET 2017<createdOn>
+	<authors>Pascaline David <authors>
+</xml>
+<xml>
+	<title>Au bord du monde</title>
+	<subtitle>Un roman fantastique</subtitle>
+	<isbn>9782849214015</isbn>
+	<pageCount>230</pageCount>
+	<keywords>Au bord du monde; Laureen David; Éditions ThoT; ebooks; littérature française; romans fantastiques; fantasy; romans d'aventures; mondes parallèles; morts; vivants; réel; imaginaire; rêves; remords; amour; regrets; compassion; courage; émotions; culpabilité; proches; espoirs</keywords>
+	<languageID>2</languageID>
+	<createdOn>Fri Dec 23 14:18:49 EET 2016<createdOn>
+	<authors>Dominique Coutant-Defer <authors>
+</xml>
+<xml>
+	<title>Vers une agritecture</title>
+	<subtitle>Architecture des constructions agricoles (1789-1950)</subtitle>
+	<isbn>9782804702571</isbn>
+	<pageCount>160</pageCount>
+	<keywords>Jean-Philippe Garric; Vers une agritecture; Architecture des constructions agricoles (1789-1950); Editions Mardaga; ebooks; ouvrages de référence; histoire; architecture verte; agriculture urbaine; urbanisme; urbanité; milieux ruraux et urbains; villes; campagnes; modernisation; François Cointeraux;collection Architecture;hybridations;modernité</keywords>
+	<languageID>2</languageID>
+	<createdOn>Fri Nov 11 12:52:42 EET 2016<createdOn>
+	<authors>Jenny Trolliet <authors>
+</xml>
+<xml>
+	<title>Sur le rail</title>
+	<subtitle></subtitle>
+	<isbn>9782335151176</isbn>
+	<pageCount>239</pageCount>
+	<keywords>Sur le rail;Jules Noriac;Éditions Ligaran;ebooks;domaine public;littérature française;romans;théâtre; genres hybrides; Cairon</keywords>
+	<languageID>2</languageID>
+	<createdOn>Fri Nov 11 14:00:29 EET 2016<createdOn>
+	<authors> lePetitLitteraire <authors>
+</xml>
+<xml>
+	<title>Robert Surcouf, un corsaire malouin</title>
+	<subtitle>D'après des documents authentiques</subtitle>
+	<isbn>9782335167054</isbn>
+	<pageCount>530</pageCount>
+	<keywords>Robert Surcouf, un corsaire malouin; D'après des documents authentiques; Robert Surcouf; éditions Ligaran; ebooks; littérature; domaine public; oeuvres classiques; oeuvres indisponibles; biographies; récits de vie; mémoires; corsaires français; marins; armateurs; roi des corsaires; documentations; croisières; voyages en mer; exploits; renommées; vérité</keywords>
+	<languageID>2</languageID>
+	<createdOn>Fri Nov 11 14:44:19 EET 2016<createdOn>
+	<authors>Arsène Houssaye <authors>
+</xml>
+<xml>
+	<title>La Retraite</title>
+	<subtitle>Récit d'un soldat</subtitle>
+	<isbn>9782335121544</isbn>
+	<pageCount>260</pageCount>
+	<keywords>La Retraite; Récit d'un soldat; Emile Zavie; Ligaran ebooks; œuvres domaine public; œuvres indisponibles; littérature; littérature classique; autobiographies; récits guerres; témoignages guerres; mémoires guerres; souvenirs guerres; débarquements; vies soldats; sentiments soldats; rescapés de guerre; post-traumatismes guerres</keywords>
+	<languageID>2</languageID>
+	<createdOn>Fri Nov 11 13:39:49 EET 2016<createdOn>
+	<authors>Emma Gesquière <authors>
+</xml>
+<xml>
+	<title>Le Dernier Monde</title>
+	<subtitle>Un roman pour les enfants de 8 ans et plus</subtitle>
+	<isbn>9782511040133</isbn>
+	<pageCount>120</pageCount>
+	<keywords>Le Dernier Monde; Florence Jenner Metz;Alice Jeunesse; ebooks; fictions; littérature jeunesse; romans jeunesse; fantastiques; aventures; suspenses; péripéties; rebondissements; internet; jeux vidéo; jeux en ligne;informatique; défis;amitié; sorciers;livres pour enfants;Anatole et Basile;à partir de 8 ans;8-12 ans</keywords>
+	<languageID>2</languageID>
+	<createdOn>Fri Nov 11 13:27:42 EET 2016<createdOn>
+	<authors>Encyclopaedia Universalis <authors>
+</xml>
+<xml>
+	<title>La légende de la mort chez les Bretons armoricains</title>
+	<subtitle>Tome II</subtitle>
+	<isbn>9782335163353</isbn>
+	<pageCount>402</pageCount>
+	<keywords>La légende de la mort chez les Bretons armoricains; Tome II; Anatole Le Braz; Éditions Ligaran; ebooks; domaine public; œuvres indisponibles; littérature; œuvres classiques; recueils; légendes; mort; Les noyés; Les villes englouties; Les assassinés et les pendus; L’Anaon; Les fêtes des âmes; Les pèlerinages des âmes; Les revenants; Les morts malfaisants; Conjurations et conjurés, Enfer; Paradis</keywords>
+	<languageID>2</languageID>
+	<createdOn>Fri Nov 11 10:19:47 EET 2016<createdOn>
+	<authors>Isabelle Letélié <authors>
+</xml>
+<xml>
+	<title>Atala</title>
+	<subtitle></subtitle>
+	<isbn>9782335008616</isbn>
+	<pageCount>37</pageCount>
+	<keywords>Atala; François-René de Chateaubriand; Ligaran; littérature française; XIXe; roman; romantisme; Chactas</keywords>
+	<languageID>2</languageID>
+	<createdOn>Fri Nov 11 10:27:58 EET 2016<createdOn>
+	<authors>Maurice Carême <authors>
+</xml>
+<xml>
+	<title>Tristan et Yseult</title>
+	<subtitle></subtitle>
+	<isbn>9782335014778</isbn>
+	<pageCount>148</pageCount>
+	<keywords>Anonyme; Tristan et Yseult; Bretagne; littératture bretonne; mythes; traditions orales; origines celtiques; celtes; littérature française; légendes</keywords>
+	<languageID>2</languageID>
+	<createdOn>Fri Nov 11 10:34:55 EET 2016<createdOn>
+	<authors>Célia Ramain <authors>
+</xml>
+<xml>
+	<title>Réponse à Sir Walter Scott</title>
+	<subtitle>Sur son "Histoire de Napoléon"</subtitle>
+	<isbn>9782335165319</isbn>
+	<pageCount>153</pageCount>
+	<keywords>Réponse à Sir Walter Scott; Sur son "Histoire de Napoléon"; Louis Bonaparte; Éditions Ligaran; ebooks; domaine public; œuvres classiques; œuvres indisponibles; essais historiques; commentaires; remarques; analyses; défense; Histoire; souvenirs; biographies; autobiographies; mémoires</keywords>
+	<languageID>2</languageID>
+	<createdOn>Fri Nov 11 10:53:20 EET 2016<createdOn>
+	<authors> fichesdelecture.com <authors>
+</xml>
+<xml>
+	<title>Les Perses (Fiche de lecture)</title>
+	<subtitle>Analyse complète de l'oeuvre d'Eschyle</subtitle>
+	<isbn>9782511025734</isbn>
+	<pageCount>13</pageCount>
+	<keywords>Fiche de lecture; Les perses; Eschyle; résumé; analyse détaillée; éducation nationale; collège; lycée; analyse littéraire; théorie littéraire; œuvre classique; roman; pièce de théâtre; auteur classique; référence littéraire;</keywords>
+	<languageID>2</languageID>
+	<createdOn>Fri Nov 11 11:09:32 EET 2016<createdOn>
+	<authors>Davy Artero <authors>
+</xml>
+<xml>
+	<title>Mondo et autres histoires de Le Clézio (Fiche de lecture)</title>
+	<subtitle>Analyse complète de l'oeuvre</subtitle>
+	<isbn>9782511025741</isbn>
+	<pageCount>24</pageCount>
+	<keywords>Fiche de lecture; Mondo et autres histoires; Le Clézio; résumé; analyse détaillée; éducation nationale; collège; lycée; analyse littéraire; théorie littéraire; œuvre classique; roman; pièce de théâtre; auteur classique; référence littéraire;</keywords>
+	<languageID>2</languageID>
+	<createdOn>Fri Nov 11 11:09:48 EET 2016<createdOn>
+	<authors> lePetitLittéraire.fr <authors>
+</xml>
+<xml>
+	<title>Assassins en herbe</title>
+	<subtitle>Nouvelles autobiographiques</subtitle>
+	<isbn>9782875860132</isbn>
+	<pageCount>20</pageCount>
+	<keywords>Michel Vanvaerenbergh; Assassins en herbe; Paroles aériennes; Ker éditions; ebooks; nouvelles; récits; autobiographies; pilotes; mésaventures; chances; Bruxelles; cessna 310, Angleterre</keywords>
+	<languageID>2</languageID>
+	<createdOn>Fri Nov 11 11:11:16 EET 2016<createdOn>
+	<authors>Véronique Lagny Delatour <authors>
+</xml>
+<xml>
+	<title>Les Fourberies de Scapin</title>
+	<subtitle></subtitle>
+	<isbn>9782335004243</isbn>
+	<pageCount>35</pageCount>
+	<keywords>Les Fourberies de Scapin; Molière; pièce de théâtre; farce; comédie; littérature française; XVIIe siècle; 17e; classicisme; oeuvre classique; règle des trois unités; temps lieu espace; influence italienne; roi soleil</keywords>
+	<languageID>2</languageID>
+	<createdOn>Fri Nov 11 11:11:45 EET 2016<createdOn>
+	<authors>Véronique-Anna de Montfort <authors>
+</xml>
+<xml>
+	<title>Voyage aux îles françaises de l'Amérique</title>
+	<subtitle>Témoignage</subtitle>
+	<isbn>9782842658007</isbn>
+	<pageCount>321</pageCount>
+	<keywords>Voyage aux îles françaises de l'Amérique; Jean-Baptiste Labat; Éditions La Découvrance; ebooks; collection Découverte; journal de bord; témoignages; récits de voyages; anecdotes; cultures; coutumes; traditions; explications; histoire; rencontres; portraits; habitudes; vie quotidienne; remarques; renseignements; boutades; ironies; bienveillance; reportages; littérature générale; oeuvres classiques</keywords>
+	<languageID>2</languageID>
+	<createdOn>Fri Nov 11 11:12:10 EET 2016<createdOn>
+	<authors>Frédérique Trigodet <authors>
+</xml>
+<xml>
+	<title>Mémoires et correspondances historiques et littéraires inédits (1726 à 1816)</title>
+	<subtitle></subtitle>
+	<isbn>9782335075953</isbn>
+	<pageCount>380</pageCount>
+	<keywords>Jean-Baptiste-Antoine Suard; Mémoires et correspondances historiques et littéraires inédits (1726 à 1816); Ligaran éditions; ebooks; essais et ouvrages de références; histoire politique et littéraire; querelles littéraires; censures; études théâtrales; académies</keywords>
+	<languageID>2</languageID>
+	<createdOn>Fri Nov 11 11:37:18 EET 2016<createdOn>
+	<authors>Mathieu Couplet <authors>
+</xml>
+<xml>
+	<title>Physiologie du Cocu</title>
+	<subtitle>Considérations biscornues, par une bête sans cornes</subtitle>
+	<isbn>9782335037739</isbn>
+	<pageCount>97</pageCount>
+	<keywords>Physiologie du Cocu; Considérations biscornues, par une bête sans cornes; Paul de Kock; Ligaran; littérature française; XIXe; romans humoristiques; humour; parodies; écrivains français</keywords>
+	<languageID>2</languageID>
+	<createdOn>Fri Nov 11 11:42:19 EET 2016<createdOn>
+	<authors>BusinessNews Publishing <authors>
+</xml>
+<xml>
+	<title>Rien n'est vrai tout est possible</title>
+	<subtitle>Aventures dans la Russie d'aujourd'hui</subtitle>
+	<isbn>9782915134933</isbn>
+	<pageCount>200</pageCount>
+	<keywords>Rien n’est vrai tout est possible; Aventures dans la Russie d'aujourd'hui; Peter Pomerantsev; Saint-Simon; ebooks; littératures; reportages politiques; analyses; rouages; médias russes; télé-réalité; Kremlin; machines médiatiques; orchestrer; illusions; autoritarismes; argents; Poutine</keywords>
+	<languageID>2</languageID>
+	<createdOn>Fri Nov 11 11:50:23 EET 2016<createdOn>
+	<authors>Linné Lharsson <authors>
+</xml>
+<xml>
+	<title>Summary: The Power of Why</title>
+	<subtitle>Review and Analysis of Weylman's Book</subtitle>
+	<isbn>9782511024348</isbn>
+	<pageCount>15</pageCount>
+	<keywords>The Power Of Why; C. Richard Weylman; Summary & Analysis; Review; Must Read Summaries; marketing & advertising; promotion & branding; sales & selling; business success; customer-centric thinking; customer experience & satisfaction; improving company performance; product management; differentiation; management & strategy;</keywords>
+	<languageID>1</languageID>
+	<createdOn>Fri Nov 11 11:57:00 EET 2016<createdOn>
+	<authors>Delphine Leloup <authors>
+</xml>
+<xml>
+	<title>Calcul du prix de revient</title>
+	<subtitle>Rentabiliser les coûts de production et de distribution pour les chefs d'entreprises belges</subtitle>
+	<isbn>9782511017159</isbn>
+	<pageCount>302</pageCount>
+	<keywords>Emmanuel Hachez; Calcul du prix de revient; EdiPro éditions; ebooks; guides pratiques sur l'économie belge; chiffres d'affaires; investissements; rentabilités; chefs et responsables d'entreprises; entrepreunariats; prix d'achat; bénéfices; pertes; coûts par activités; coûts caractéristiques produits; gestion; stratégies; réalités économiques; finances; productions; distributions; Belgique</keywords>
+	<languageID>2</languageID>
+	<createdOn>Fri Nov 11 12:07:35 EET 2016<createdOn>
+	<authors>Jules Verne <authors>
+</xml>
+<xml>
+	<title>La Guerre des boutons</title>
+	<subtitle>Roman jeunesse d'aventures</subtitle>
+	<isbn>9782335050394</isbn>
+	<pageCount>359</pageCount>
+	<keywords>La Guerre des boutons; Louis Pergaud; éditions Ligaran; ebooks; romans jeunesse d'aventures; littérature française; classiques; XXe siècle; fictions; enfances; enfants; clans rivaux; Lebrac; Aztec des Gués; défaites; victoires; stratégies; tactiques; butins; campagne franc-comtoise; Doubs; France; villages; Longevene; Velrans; humour</keywords>
+	<languageID>2</languageID>
+	<createdOn>Fri Nov 11 12:11:30 EET 2016<createdOn>
+	<authors>Dominique Coutant-Defer <authors>
+</xml>
+<xml>
+	<title>Préhistoire et protohistoire en Europe</title>
+	<subtitle>Les Grands Articles d'Universalis</subtitle>
+	<isbn>9782852299733</isbn>
+	<pageCount>60</pageCount>
+	<keywords>préhistoire et protohistoire en europe; encyclopédie universalis; europe; Paléolithique; Mésolithique; Néolithique; protohistoire; premiers peuplements; premiers hommes; fossiles; homininés; Acheuléen; lignées néandertaliennes; habitats paléolithique; chasses préhistoire; naissances métallurgie; civilisations du bronze; civilisations du fer; groupements des habitations</keywords>
+	<languageID>2</languageID>
+	<createdOn>Fri Nov 11 12:17:45 EET 2016<createdOn>
+	<authors>Nils-Christian Ihlen-Hansen <authors>
+</xml>
+<xml>
+	<title>Des vers</title>
+	<subtitle>Lettres de Mme Laure de Maupassant à Gustave Flaubert - Poésies inédites</subtitle>
+	<isbn>9782335097429</isbn>
+	<pageCount>159</pageCount>
+	<keywords>Des vers; Lettres de Mme Laure de Maupassant à Gustave Flaubert - Poésies inédites; Guy de Maupassant; Ligaran ebooks; œuvres domaine public; œuvres indisponibles; littérature; littérature classique; littérature française; nouvelles; critiques sociales; sociétés françaises; 19e siècle; bourgeoisies; naturalisme; réalismes; fantastiques; pessimismes; normandie; amours</keywords>
+	<languageID>2</languageID>
+	<createdOn>Fri Nov 11 12:28:16 EET 2016<createdOn>
+	<authors>Encyclopaedia Universalis <authors>
+</xml>
+<xml>
+	<title>Comment j'ai couché avec Roger Federer</title>
+	<subtitle>Lettre d'amour poétique</subtitle>
+	<isbn>9782366260540</isbn>
+	<pageCount>64</pageCount>
+	<keywords>Comment j’ai couché avec Roger Federer; Philippe Roi; Lucquin; ebooks; lettres d’amour; fiction; ebooks indés; littérature française; roman français; mélancolies; dépressions; envies; guérisons; se battre; fantasmes; provocations; passions; accompagner; matchs; Roland-Garros; tennis</keywords>
+	<languageID>2</languageID>
+	<createdOn>Fri Nov 11 12:36:44 EET 2016<createdOn>
+	<authors>Cécile Valey <authors>
+</xml>
+<xml>
+	<title>Let's play with words… The Birds</title>
+	<subtitle>The essential vocabulary</subtitle>
+	<isbn>9789616929738</isbn>
+	<pageCount>22</pageCount>
+	<keywords>Ivan Esenko; Alenka Vuk Trotovšek; Let's play with words… The Birds; Okasi; ebooks; non-fiction for children; beginning and young readers; pictures; illustrations; illustrated and interactive books; learning vocabulary; nature; animals; feathers; plumages; wings; trees; nests; migrations; owls</keywords>
+	<languageID>1</languageID>
+	<createdOn>Fri Nov 11 12:43:29 EET 2016<createdOn>
+	<authors>Christophe Vuilleumier <authors>
+</xml>
+<xml>
+	<title>Pourquoi j'ai mangé mon père</title>
+	<subtitle>Analyse complète de l'oeuvre</subtitle>
+	<isbn>9782511035153</isbn>
+	<pageCount>7</pageCount>
+	<keywords>Roy Lewis; Pourquoi j'ai mangé mon père; Fichesdelecture.com ebooks; fiches de lecture; littérature française; résumés détaillés; collèges; lycées; références littéraires; éducation nationale; théories littéraires; axes d'analyse; critiques; outils pédagogiques; enseignements; parascolaires</keywords>
+	<languageID>2</languageID>
+	<createdOn>Fri Nov 11 13:12:32 EET 2016<createdOn>
+	<authors>Louis Levêque <authors>
+</xml>
+<xml>
+	<title>Du côté de chez Swann</title>
+	<subtitle>Analyse complète de l'oeuvre</subtitle>
+	<isbn>9782511032152</isbn>
+	<pageCount>6</pageCount>
+	<keywords>Du côté de chez Swann; Marcel Proust; Analyse complète de l'œuvre; Fichesdelecture.com ebooks; fiches de lecture; littérature française; résumés détaillés; collèges; lycées; références littéraires; éducation nationale; théories littéraires; axes d'analyse; critiques; outils pédagogiques; enseignements; parascolaires; A la recherche du temps perdu</keywords>
+	<languageID>2</languageID>
+	<createdOn>Fri Nov 11 13:16:45 EET 2016<createdOn>
+	<authors>Alphonse Karr <authors>
+</xml>
+<xml>
+	<title>Hôtel Polski</title>
+	<subtitle>Analyse complète de l'oeuvre</subtitle>
+	<isbn>9782511032367</isbn>
+	<pageCount>11</pageCount>
+	<keywords>Hôtel Polski; Tecia Werbowski; Analyse complète de l'œuvre; Fichesdelecture.com ebooks; fiches de lecture; littérature française; résumés détaillés; collèges; lycées; références littéraires; éducation nationale; théories littéraires; axes d'analyse; critiques; outils pédagogiques; enseignements; parascolaires</keywords>
+	<languageID>2</languageID>
+	<createdOn>Fri Nov 11 13:16:51 EET 2016<createdOn>
+	<authors>Anatole de Ségur <authors>
+</xml>
+<xml>
+	<title>Les Démons de Fiodor Dostoïevski</title>
+	<subtitle>Les Fiches de lecture d'Universalis</subtitle>
+	<isbn>9782852292444</isbn>
+	<pageCount>16</pageCount>
+	<keywords>Fiodor Dostoïevski; Les Démons; encyclopédie universalis; littérature; littéraire classique; contemporaine; guide; auteur; lecture; analyse; critique; fiche; résumés; aide; études; œuvre; scolaires; parascolaires; bac de français; prépa; enseignants; repères</keywords>
+	<languageID>2</languageID>
+	<createdOn>Fri Nov 11 13:44:25 EET 2016<createdOn>
+	<authors>John-Erich Nielsen <authors>
+</xml>
+<xml>
+	<title>Espèces envahissantes d'ici et d'ailleurs</title>
+	<subtitle>Synthèse sur les espèces envahissantes et présentation de 32 espèces</subtitle>
+	<isbn>9782351911624</isbn>
+	<pageCount>192</pageCount>
+	<keywords>Espèces envahissantes d'ici et d'ailleurs; Etienne Branquart; Guillaume Fried; Mardaga Editions; ebooks; sciences de la vie; biologie; écosystème; biosphère; biodiversité; invasions biologiques; luttes réchauffement climatique; proliférations super espèces; invasions espèces exotiques; extinctions espèces; perturbations mécanismes régulations; solutions durables environnement; algues tueuses; plantes allergisantes; animaux contagieux</keywords>
+	<languageID>2</languageID>
+	<createdOn>Fri Nov 11 13:44:52 EET 2016<createdOn>
+	<authors>Michel Honaker <authors>
+</xml>
+<xml>
+	<title>El concepto de la estrategia del océano azul </title>
+	<subtitle>Las claves del famoso método para superar a la competencia </subtitle>
+	<isbn>9782806274496</isbn>
+	<pageCount>66</pageCount>
+	<keywords> El concepto de la estrategia del océano azul; 50Minutos.es;guías prácticas;W. Chan Kim y Renée Mauborgne; océanos azules y océanos rojos; estrategia corporativa; marketing y empresa; innovación en valor y innovación útil; estimulación y creatividad; debilidades y fortalezas; alternativas de negocio; superar a la competencia; éxito; conquista de clientes; nuevas demandas; tendencias; rendimiento; Blue Ocean Strategy Institute; INSEAD; volumen de ventas; ganar la batalla competitiva</keywords>
+	<languageID>3</languageID>
+	<createdOn>Fri Nov 11 14:09:48 EET 2016<createdOn>
+	<authors>Guillaume Peris <authors>
+</xml>
+<xml>
+	<title>Le diagramme d'Ishikawa</title>
+	<subtitle>Les liens de cause à effet</subtitle>
+	<isbn>9782806262448</isbn>
+	<pageCount>56</pageCount>
+	<keywords>Le diagramme d'Ishikawa;Les liens de cause à effet;Ariane de Saeger;50Minutes.fr;guides pratiques;manuels;méthodes; diagramme en arête de poisson; résolution de problème; gestion de la qualité; 5M; management; matériel; main-d'oeuvre; moyens financiers; 7M; 8M; 5P; 5 pourquoi; méthode CARREDAS;grilles d'efficacité; best practices;business;gestion;diagrammes;théories économiques;modèles;outils;entreprises</keywords>
+	<languageID>2</languageID>
+	<createdOn>Fri Nov 11 14:10:59 EET 2016<createdOn>
+	<authors> Mélanges <authors>
+</xml>
+<xml>
+	<title>Ma femme est une sorcière</title>
+	<subtitle>Roman fantastique</subtitle>
+	<isbn>9782843625572</isbn>
+	<pageCount>256</pageCount>
+	<keywords>Ma femme est une sorcière; Thorne Smith; Editions Terre de brume; ebooks; romans fantastiques; occultes; surnaturels; horreurs; fantômes; classiques; histoire; aventures; dark fantasy; fantastique; épouses; relations familiales; couples; romances; amour</keywords>
+	<languageID>2</languageID>
+	<createdOn>Fri Nov 11 14:57:27 EET 2016<createdOn>
+	<authors>Roger de Beauvoir <authors>
+</xml>
+<xml>
+	<title>Les Misérables by Victor Hugo (Book Analysis)</title>
+	<subtitle>Detailed Summary, Analysis and Reading Guide</subtitle>
+	<isbn>9782806270283</isbn>
+	<pageCount>24</pageCount>
+	<keywords>Victor Hugo; Les Misérables; BrightSummaries.com; summary; book analysis; reading guides; study aids; book notes; poverty & misery; love; death; religion; redemption; revolution; literature classics; French history;</keywords>
+	<languageID>1</languageID>
+	<createdOn>Fri Nov 11 14:59:28 EET 2016<createdOn>
+	<authors>BusinessNews Publishing <authors>
+</xml>
+<xml>
+	<title>La chair et le néant</title>
+	<subtitle>Un roman sombre</subtitle>
+	<isbn>9782359626896</isbn>
+	<pageCount>268</pageCount>
+	<keywords>La chair et le néant; Sylvain Lapo; Editions Ex Aequo; collection Blanche; ebooks; romans sentimentaux; romans psychologiques; romans noirs; sentiments; meurtres; assassinats; hallucinations; colères; télévision; médias; animateurs; illusions; déceptions; désespoir; ruptures amoureuses; célibat; histoires d'amour</keywords>
+	<languageID>2</languageID>
+	<createdOn>Mon Feb 20 08:37:09 EET 2017<createdOn>
+	<authors>Hugues Serraf <authors>
+</xml>
+<xml>
+	<title>Terres interdites - Tome 1</title>
+	<subtitle>L'enfant de la prophétie</subtitle>
+	<isbn>9791023603873</isbn>
+	<pageCount>340</pageCount>
+	<keywords>Terres interdites; L'enfant de la prophétie; Tome 1; Rébecca Monnery; Publishroom; ebooks; romans fantasy; romans fantastiques; romans d'aventures; sagas; mondes imaginaires; créatures fantastiques; quêtes initiatiques; épreuves; culture tribale; quêtes de soi; prophéties;peuples  guerriers; rivalités; frères ennemis; destinées; destins; tribus; terres nouvelles; missions; traditions; coutumes; guides</keywords>
+	<languageID>2</languageID>
+	<createdOn>Fri Nov 11 11:26:31 EET 2016<createdOn>
+	<authors>Robert Louis Stevenson <authors>
+</xml>
+<xml>
+	<title>Fontainebleau</title>
+	<subtitle>Paysages, légendes, souvenirs, fantaisies</subtitle>
+	<isbn>9782335066982</isbn>
+	<pageCount>366</pageCount>
+	<keywords>Collectif; Fontainebleau; Paysages, légendes, souvenirs, fantaisies; Ligaran éditions; ebooks; ouvrages de références; encyclopédies sur l'art; beaux-livres</keywords>
+	<languageID>2</languageID>
+	<createdOn>Fri Nov 11 12:26:31 EET 2016<createdOn>
+	<authors> Ligaran <authors>
+</xml>
+<xml>
+	<title>Dictionnaire de la Théologie chrétienne</title>
+	<subtitle>Les Dictionnaires d'Universalis</subtitle>
+	<isbn>9782852291485</isbn>
+	<pageCount>2090</pageCount>
+	<keywords>Dictionnaire de la Théologie chrétienne; Encyclopédie Universalis;Dieu; religions;christianisme;théologie; doctrines;foi; théologiens; études; exégèses;ebooks; préceptes; religions; dogmes; doctrines; croyances; textes sacrés; révélations; naissances;théologie biblique;Bible;patristique;médiévale;morale;œcuménisme</keywords>
+	<languageID>2</languageID>
+	<createdOn>Fri Nov 11 10:57:48 EET 2016<createdOn>
+	<authors> 50Minutos <authors>
+</xml>
+<xml>
+	<title>C'est arrivé à Lucile</title>
+	<subtitle>Un roman émouvant</subtitle>
+	<isbn>9782511014738</isbn>
+	<pageCount>93</pageCount>
+	<keywords>C'est arrivé à Lucile; Anne-Laure Boselli; Alice Éditions; romans psychologiques; livre pour enfant; livre jeunesse; deuils; dépressions; histoires pour enfants; tristesse; douleurs; amitiés; adolescence; drame familial; perte d'un proche; perte d'un parent; morts; familles; soutien; solidarité</keywords>
+	<languageID>2</languageID>
+	<createdOn>Fri Nov 11 10:50:08 EET 2016<createdOn>
+	<authors> lePetitLittéraire <authors>
+</xml>
+<xml>
+	<title>Le petit Klimt</title>
+	<subtitle>Un livre d'art amusant et ludique pour toute la famille !</subtitle>
+	<isbn>9782875750525</isbn>
+	<pageCount>32</pageCount>
+	<keywords>Catherine de Duve; Le petit Klimt; Un voyage interactif au pays du peintre viennois; Happy museum !; Kate'Art Éditions; ebooks; documentaires pour enfants; 9-12 ans; jeunesse; livres illustrés; illustrations; familles; artistes; peintures; XIXe et XXe siècles; mouvements artistiques; art nouveau; symbolisme; L'Arbre de vie; L'Accomplissement; L'Attente; Le Baiser; Judith; Portrait d'Adèle Bloch-Bauer; Danaë; Vienne</keywords>
+	<languageID>2</languageID>
+	<createdOn>Fri Nov 11 12:45:19 EET 2016<createdOn>
+	<authors>Encyclopaedia Universalis <authors>
+</xml>
+<xml>
+	<title>De la barbarie de ce temps</title>
+	<subtitle>Paris ou le Livre des cent-et-un</subtitle>
+	<isbn>9782335077568</isbn>
+	<pageCount>20</pageCount>
+	<keywords>Etienne-Jean Delécluze; De la barbarie de ce temps; Paris ou le Livre des cent-et-un; Ligaran éditions; ebooks; nouvelles; littérature française; classiques; XIXe siècle; fictions</keywords>
+	<languageID>2</languageID>
+	<createdOn>Fri Nov 11 12:45:26 EET 2016<createdOn>
+	<authors>Philip Kotler <authors>
+</xml>
+<xml>
+	<title>Summary: Six Action Shoes</title>
+	<subtitle>Review and Analysis of de Bono's Book</subtitle>
+	<isbn>9782511018255</isbn>
+	<pageCount>15</pageCount>
+	<keywords>Six Action Shoes; Edward De Bono; Summary & Analysis; Review; Must Read Summaries; strategies; action modes; personal & professional success; decision making & problem solving; creativity; effective management;</keywords>
+	<languageID>1</languageID>
+	<createdOn>Fri Nov 11 14:36:12 EET 2016<createdOn>
+	<authors> Ligaran <authors>
+</xml>
+<xml>
+	<title>Le droit d'auteur</title>
+	<subtitle></subtitle>
+	<isbn>9782879745800</isbn>
+	<pageCount>356</pageCount>
+	<keywords>Le droit d'auteur;Droit;Droit luxembourgeois;Propriétés intellectuelles;Promoculture – Larcier;Regards sur le droit luxembourgeois</keywords>
+	<languageID>2</languageID>
+	<createdOn>Fri Nov 11 13:53:46 EET 2016<createdOn>
+	<authors>Georges Hallet <authors>
+</xml>
+<xml>
+	<title>Deux doigts dans la porte</title>
+	<subtitle>Un thriller psychologique</subtitle>
+	<isbn>9791025100172</isbn>
+	<pageCount>179</pageCount>
+	<keywords>Deux doigts dans la porte; G.-J. Arnaud; French Pulp éditions; collection Polar; ebooks; thrillers; polars; romans noirs; romans policiers; suspense; intrigues; psychopathes; pensionnats; pères; géniteurs; jeunes filles; adolescentes; recherches; familles; assassins; mystères; incestes;Fleuve noir</keywords>
+	<languageID>2</languageID>
+	<createdOn>Tue May 09 08:33:25 EEST 2017<createdOn>
+	<authors>Yolanda Fernández Romero <authors>
+</xml>
+<xml>
+	<title>Rhapsodies pour l'ange bleu</title>
+	<subtitle>Un roman cultivé</subtitle>
+	<isbn>9782875542144</isbn>
+	<pageCount>304</pageCount>
+	<keywords>Rhapsodies pour l'ange bleu; Véronique Bergen; Éditions Luce Wilquin; collection Sméraldine; ebooks; littérature belge; romans d'amour; romances; histoires d'amour; séparations; discours amoureux; anges; rhapsodies; triangles amoureux; femmes; littérature; culture; arts; musique; références</keywords>
+	<languageID>2</languageID>
+	<createdOn>Mon Feb 20 10:48:00 EET 2017<createdOn>
+	<authors>Abdou Diouf <authors>
+</xml>
+<xml>
+	<title>Summary: Management the Marks & Spencer Way</title>
+	<subtitle>Review and Analysis of Sieff's Book</subtitle>
+	<isbn>9782511017951</isbn>
+	<pageCount>15</pageCount>
+	<keywords>Management The Marks & Spencer Way; Marcus Sieff; Summary & Analysis; Review; Must Read Summaries; personal & professional success; interpersonal relationships; improvement & development; cooperation & collaboration; community projects; management techniques;</keywords>
+	<languageID>1</languageID>
+	<createdOn>Fri Nov 11 14:38:57 EET 2016<createdOn>
+	<authors>BusinessNews Publishing <authors>
+</xml>
+<xml>
+	<title>Raga Mala Ma vie en musique</title>
+	<subtitle>Mémoires d'un des plus grands musiciens de musique traditionnelle indienne</subtitle>
+	<isbn>9782369561200</isbn>
+	<pageCount>352</pageCount>
+	<keywords>Ravi Shankar; Catherine Baldisserr; Raga Mala Ma vie en musique; Editions Intervalles; ebooks; autobiographies; mémoires; témoignages; musiques indiennes et traditionnelles; musiciens; sitars; Inde; festivals; tournées; Woodstock; Monterrey; George Harrison; Beatles; Rolling Stones; Norah Jones; cultures</keywords>
+	<languageID>2</languageID>
+	<createdOn>Fri Nov 11 12:59:05 EET 2016<createdOn>
+	<authors>Encyclopaedia Universalis <authors>
+</xml>
+<xml>
+	<title>Richard Long ou la sculpture en marchant (Nice - 2008)</title>
+	<subtitle>Les Fiches Exposition d'Universalis</subtitle>
+	<isbn>9782341010030</isbn>
+	<pageCount>25</pageCount>
+	<keywords>Richard Long ou la sculpture en marchant (Nice - 2008); Les Fiches Exposition d'Universalis; Encyclopaedia Universalis; ebooks; encyclopédies; articles; critiques d'art; expositions temporaires; musées; musée d’Art moderne et d’Art contemporain de Nice; expositions éphémères; sculpture; sculpteurs; artistes; art contemporain; land art; photographies; pierres; argile; peinture; corps</keywords>
+	<languageID>2</languageID>
+	<createdOn>Fri Nov 11 13:21:02 EET 2016<createdOn>
+	<authors> Ligaran <authors>
+</xml>
+<xml>
+	<title>Summary: An Inconvenient Book</title>
+	<subtitle>Review and Analysis of Glenn Beck's Book</subtitle>
+	<isbn>9782511003206</isbn>
+	<pageCount>44</pageCount>
+	<keywords>An Inconvenient Book; Glenn Beck; political; summary; economics; america's issues; parody; conservative; climate change; poverty; humour; political correctness; skeptic; </keywords>
+	<languageID>1</languageID>
+	<createdOn>Thu Feb 02 08:54:50 EET 2017<createdOn>
+	<authors>Amandine Ré <authors>
+</xml>
+<xml>
+	<title>Dictionnaire de la Philosophie antique</title>
+	<subtitle>Les Dictionnaires d'Universalis</subtitle>
+	<isbn>9782341007023</isbn>
+	<pageCount>990</pageCount>
+	<keywords>Dictionnaire de la Philosophie antique; Encyclopaedia Universalis; Les Dictionnaires d'Universalis; ebooks; encyclopédies; dictionnaires; ouvrages de référence; articles; Antiquité; naissance de la philosophie; philosophes; croyances; Aristote; moi; dialectique; scepticisme; stoïcisme; épicurisme; sophisme; Socrate; Sénèque; Platon</keywords>
+	<languageID>2</languageID>
+	<createdOn>Mon Mar 20 11:09:11 EET 2017<createdOn>
+	<authors> Ligaran <authors>
+</xml>
+<xml>
+	<title>Nuit montmartroise</title>
+	<subtitle></subtitle>
+	<isbn>9782335168389</isbn>
+	<pageCount>131</pageCount>
+	<keywords>Nuit montmartroise; Delphi Fabrice; A. Douhin; éditions Ligaran; ebooks; littérature française; domaine public; oeuvres classiques; oeuvres indisponibles; romans français; romans sentimentaux; romans d'aventures; romans populaires; récits humoritiques; livres illustrés; Montmartre; amour; humour; dialogues; criminels; enquêtes; arrestations; provinces</keywords>
+	<languageID>2</languageID>
+	<createdOn>Fri Nov 11 13:26:01 EET 2016<createdOn>
+	<authors>Encyclopaedia Universalis <authors>
+</xml>

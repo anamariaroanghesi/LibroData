@@ -1,0 +1,11 @@
+Common books for publishing retailers with ids 17 32
+<xml>
+	<title>Les traducteurs</title>
+	<subtitle>Paris ou le Livre des cent-et-un</subtitle>
+	<isbn>9782335078053</isbn>
+	<pageCount>11</pageCount>
+	<keywords>Édouard de La Grange; Les traducteurs; Paris ou le Livre des cent-et-un; Ligaran éditions; ebooks; nouvelles; littérature française; classiques; XIXe siècle; études des mœurs et des sociétés; anthropologie; sociologie; fictions</keywords>
+	<languageID>2</languageID>
+	<createdOn>Fri Nov 11 14:27:30 EET 2016<createdOn>
+	<authors> Ligaran <authors>
+</xml>

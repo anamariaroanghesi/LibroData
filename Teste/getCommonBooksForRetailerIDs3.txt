@@ -1,0 +1,11 @@
+Common books for publishing retailers with ids 32 30
+<xml>
+	<title>Préhistoire et protohistoire en Europe</title>
+	<subtitle>Les Grands Articles d'Universalis</subtitle>
+	<isbn>9782852299733</isbn>
+	<pageCount>60</pageCount>
+	<keywords>préhistoire et protohistoire en europe; encyclopédie universalis; europe; Paléolithique; Mésolithique; Néolithique; protohistoire; premiers peuplements; premiers hommes; fossiles; homininés; Acheuléen; lignées néandertaliennes; habitats paléolithique; chasses préhistoire; naissances métallurgie; civilisations du bronze; civilisations du fer; groupements des habitations</keywords>
+	<languageID>2</languageID>
+	<createdOn>Fri Nov 11 12:17:45 EET 2016<createdOn>
+	<authors>Nils-Christian Ihlen-Hansen <authors>
+</xml>

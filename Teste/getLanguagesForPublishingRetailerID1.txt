@@ -1,0 +1,4 @@
+Languages for publishing retailer with id 23
+French 2
+English 1
+Spanish 3

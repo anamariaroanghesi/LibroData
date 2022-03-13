@@ -1,0 +1,11 @@
+Common books for publishing retailers with ids 6 30
+<xml>
+	<title>La bataille de Marignan</title>
+	<subtitle>La conquête du Duché de Milan par François Ier</subtitle>
+	<isbn>9782806253941</isbn>
+	<pageCount>74</pageCount>
+	<keywords>bataille de marignan résumé; grandes batailles de l'histoire; marignan 1515;  stratégies militaires; champ de bataille; guerres d'Italie; république venise; pape Alexandre VI; roi François Ier; sforza; alviano; schiner; armée pontificale; bataille des géants; cinquième guerre d'Italie; états confédérés suisses; duché de Milan; royaume de France; suisses et italiens contre français; histoire de la bataille de Marignan</keywords>
+	<languageID>2</languageID>
+	<createdOn>Fri Nov 11 14:14:07 EET 2016<createdOn>
+	<authors>Joseph Thouvenel <authors>
+</xml>
